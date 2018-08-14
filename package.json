@@ -1,0 +1,57 @@
+{
+  "_from": "react-native-scan-barcode",
+  "_id": "react-native-scan-barcode@3.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-mc3E6JyqyKxtX9hE+2tyucRIWSg=",
+  "_location": "/react-native-scan-barcode",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-scan-barcode",
+    "name": "react-native-scan-barcode",
+    "escapedName": "react-native-scan-barcode",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-scan-barcode/-/react-native-scan-barcode-3.1.1.tgz",
+  "_shasum": "99cdc4e89caac8ac6d5fd844fb6b72b9c4485928",
+  "_spec": "react-native-scan-barcode",
+  "_where": "C:\\Users\\Mndco\\Desktop\\sh-app",
+  "author": {
+    "name": "Andreas Keller",
+    "email": "andreas.keller@gmx.ch",
+    "url": "http://www.andreaskeller.name"
+  },
+  "bugs": {
+    "url": "https://github.com/ideacreation/react-native-scan-barcode/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "A barcode scanner component for react native",
+  "homepage": "https://github.com/ideacreation/react-native-scan-barcode#readme",
+  "keywords": [
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "scan-barcode",
+    "barcode",
+    "qrcode",
+    "scanner",
+    "barcodereader"
+  ],
+  "license": "MIT",
+  "main": "scan-barcode.js",
+  "name": "react-native-scan-barcode",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideacreation/react-native-scan-barcode.git"
+  },
+  "version": "3.1.1"
+}
