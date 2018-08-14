@@ -42,10 +42,10 @@ You can link it simply by running `react-native link`.
 
   Add the following **import** statement:
   ```Java
-  import com.safaeean.scan-barcode.scan-barcodePackage;
+  import com.safaeean.barcodescanner.BarcodeScannerPackage;
   ```
 
-  ...and then add `scan-barcodePackage` to exported package list *(MainApplication.java#getPackages)*:
+  ...and then add `BarcodeScannerPackage` to exported package list *(MainApplication.java#getPackages)*:
 
   ```Java
   public class MainApplication extends Application implements ReactApplication {
@@ -55,7 +55,7 @@ You can link it simply by running `react-native link`.
       protected List<ReactPackage> getPackages() {
         return Arrays.<ReactPackage>asList(
           new MainReactPackage(),
-          new scan-barcodePackage()
+          new BarcodeScannerPackage()
         );
       }
   }
