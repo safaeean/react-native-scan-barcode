@@ -42,7 +42,7 @@ You can link it simply by running `react-native link`.
 
   Add the following **import** statement:
   ```Java
-  import com.eguma.scan-barcode.scan-barcodePackage;
+  import com.safaeean.scan-barcode.scan-barcodePackage;
   ```
 
   ...and then add `scan-barcodePackage` to exported package list *(MainApplication.java#getPackages)*:
@@ -102,17 +102,17 @@ AppRegistry.registerComponent('scan-barcodeApp', () => scan-barcodeApp);
 
 ## Example
 
-Try the included [scan-barcode example](https://github.com/ideacreation/react-native-scan-barcode/tree/master/Examples/scan-barcode) yourself:
+Try the included [scan-barcode example](https://github.com/safaeean/react-native-scan-barcode/tree/master/Examples/scan-barcode) yourself:
 
 ```sh
-git clone git@github.com:ideacreation/react-native-scan-barcode.git
+git clone git@github.com:safaeean/react-native-scan-barcode.git
 cd react-native-scan-barcode/Examples/scan-barcode
 npm install
 react-native run-android
 
 ```
 
-To test the example you can scan the barcodes in the [Testcodes.pdf](https://github.com/ideacreation/react-native-scan-barcode/tree/master/Examples/Testcodes.pdf) file.
+To test the example you can scan the barcodes in the [Testcodes.pdf](https://github.com/safaeean/react-native-scan-barcode/tree/master/Examples/Testcodes.pdf) file.
 
 ## Properties
 

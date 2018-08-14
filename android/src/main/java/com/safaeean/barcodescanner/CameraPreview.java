@@ -1,4 +1,4 @@
-package com.eguma.barcodescanner;
+package com.safaeean.barcodescanner;
 
 import android.content.Context;
 import android.hardware.Camera;

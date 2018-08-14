@@ -1,4 +1,4 @@
-package com.eguma.barcodescanner;
+package com.safaeean.barcodescanner;
 
 import com.facebook.react.ReactPackage;
 import com.facebook.react.bridge.JavaScriptModule;

@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Mndco\\Desktop\\sh-app\\node_modules\\react-native-barcodescanner\\android\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
+        "outputFile": "C:\\Users\\Mndco\\Desktop\\sh-app\\node_modules\\react-native-scan-barcode\\android\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v18\\values-v18.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 99
                 },
                 "from": {
-                    "file": "C:\\Users\\Mndco\\Desktop\\sh-app\\node_modules\\react-native-barcodescanner\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-v18\\values-v18.xml",
+                    "file": "C:\\Users\\Mndco\\Desktop\\sh-app\\node_modules\\react-native-scan-barcode\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-v18\\values-v18.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

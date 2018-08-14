@@ -1,4 +1,4 @@
-package com.eguma.barcodescanner;
+package com.safaeean.barcodescanner;
 
 import android.view.View;
 

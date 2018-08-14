@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Mndco\\Desktop\\sh-app\\node_modules\\react-native-barcodescanner\\android\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+        "outputFile": "C:\\Users\\Mndco\\Desktop\\sh-app\\node_modules\\react-native-scan-barcode\\android\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 327
                 },
                 "from": {
-                    "file": "C:\\Users\\Mndco\\Desktop\\sh-app\\node_modules\\react-native-barcodescanner\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hdpi\\values-hdpi.xml",
+                    "file": "C:\\Users\\Mndco\\Desktop\\sh-app\\node_modules\\react-native-scan-barcode\\android\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.0.1\\res\\values-hdpi\\values-hdpi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

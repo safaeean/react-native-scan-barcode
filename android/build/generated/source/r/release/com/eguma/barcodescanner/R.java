@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package com.eguma.barcodescanner;
+package com.safaeean.barcodescanner;
 
 public final class R {
     public static final class anim {
@@ -2354,33 +2354,33 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionBar_background com.eguma.barcodescanner:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundSplit com.eguma.barcodescanner:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_backgroundStacked com.eguma.barcodescanner:backgroundStacked}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetEnd com.eguma.barcodescanner:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetLeft com.eguma.barcodescanner:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetRight com.eguma.barcodescanner:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_contentInsetStart com.eguma.barcodescanner:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_customNavigationLayout com.eguma.barcodescanner:customNavigationLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_displayOptions com.eguma.barcodescanner:displayOptions}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_divider com.eguma.barcodescanner:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_elevation com.eguma.barcodescanner:elevation}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_height com.eguma.barcodescanner:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.eguma.barcodescanner:hideOnContentScroll}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.eguma.barcodescanner:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_homeLayout com.eguma.barcodescanner:homeLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_icon com.eguma.barcodescanner:icon}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.eguma.barcodescanner:indeterminateProgressStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_itemPadding com.eguma.barcodescanner:itemPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_logo com.eguma.barcodescanner:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_navigationMode com.eguma.barcodescanner:navigationMode}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_popupTheme com.eguma.barcodescanner:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarPadding com.eguma.barcodescanner:progressBarPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_progressBarStyle com.eguma.barcodescanner:progressBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitle com.eguma.barcodescanner:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.eguma.barcodescanner:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_title com.eguma.barcodescanner:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionBar_titleTextStyle com.eguma.barcodescanner:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_background com.safaeean.barcodescanner:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundSplit com.safaeean.barcodescanner:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_backgroundStacked com.safaeean.barcodescanner:backgroundStacked}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetEnd com.safaeean.barcodescanner:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetLeft com.safaeean.barcodescanner:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetRight com.safaeean.barcodescanner:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_contentInsetStart com.safaeean.barcodescanner:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_customNavigationLayout com.safaeean.barcodescanner:customNavigationLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_displayOptions com.safaeean.barcodescanner:displayOptions}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_divider com.safaeean.barcodescanner:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_elevation com.safaeean.barcodescanner:elevation}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_height com.safaeean.barcodescanner:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_hideOnContentScroll com.safaeean.barcodescanner:hideOnContentScroll}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeAsUpIndicator com.safaeean.barcodescanner:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_homeLayout com.safaeean.barcodescanner:homeLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_icon com.safaeean.barcodescanner:icon}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_indeterminateProgressStyle com.safaeean.barcodescanner:indeterminateProgressStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_itemPadding com.safaeean.barcodescanner:itemPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_logo com.safaeean.barcodescanner:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_navigationMode com.safaeean.barcodescanner:navigationMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_popupTheme com.safaeean.barcodescanner:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarPadding com.safaeean.barcodescanner:progressBarPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_progressBarStyle com.safaeean.barcodescanner:progressBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitle com.safaeean.barcodescanner:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_subtitleTextStyle com.safaeean.barcodescanner:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_title com.safaeean.barcodescanner:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionBar_titleTextStyle com.safaeean.barcodescanner:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionBar_background
            @see #ActionBar_backgroundSplit
@@ -2420,17 +2420,17 @@ containing a value of this type.
             0x7f01001a, 0x7f01001b, 0x7f010096
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#background}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#background}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:background
+          @attr name com.safaeean.barcodescanner:background
         */
         public static int ActionBar_background = 10;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2438,11 +2438,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.eguma.barcodescanner:backgroundSplit
+          @attr name com.safaeean.barcodescanner:backgroundSplit
         */
         public static int ActionBar_backgroundSplit = 12;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#backgroundStacked}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#backgroundStacked}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2450,11 +2450,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.eguma.barcodescanner:backgroundStacked
+          @attr name com.safaeean.barcodescanner:backgroundStacked
         */
         public static int ActionBar_backgroundStacked = 11;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2466,11 +2466,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:contentInsetEnd
+          @attr name com.safaeean.barcodescanner:contentInsetEnd
         */
         public static int ActionBar_contentInsetEnd = 21;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2482,11 +2482,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:contentInsetLeft
+          @attr name com.safaeean.barcodescanner:contentInsetLeft
         */
         public static int ActionBar_contentInsetLeft = 22;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2498,11 +2498,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:contentInsetRight
+          @attr name com.safaeean.barcodescanner:contentInsetRight
         */
         public static int ActionBar_contentInsetRight = 23;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2514,21 +2514,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:contentInsetStart
+          @attr name com.safaeean.barcodescanner:contentInsetStart
         */
         public static int ActionBar_contentInsetStart = 20;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#customNavigationLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#customNavigationLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:customNavigationLayout
+          @attr name com.safaeean.barcodescanner:customNavigationLayout
         */
         public static int ActionBar_customNavigationLayout = 13;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#displayOptions}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#displayOptions}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2546,21 +2546,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>showCustom</code></td><td>0x10</td><td></td></tr>
 <tr><td><code>disableHome</code></td><td>0x20</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:displayOptions
+          @attr name com.safaeean.barcodescanner:displayOptions
         */
         public static int ActionBar_displayOptions = 3;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#divider}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:divider
+          @attr name com.safaeean.barcodescanner:divider
         */
         public static int ActionBar_divider = 9;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#elevation}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#elevation}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2572,11 +2572,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:elevation
+          @attr name com.safaeean.barcodescanner:elevation
         */
         public static int ActionBar_elevation = 24;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#height}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#height}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2588,11 +2588,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:height
+          @attr name com.safaeean.barcodescanner:height
         */
         public static int ActionBar_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#hideOnContentScroll}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#hideOnContentScroll}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2602,51 +2602,51 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:hideOnContentScroll
+          @attr name com.safaeean.barcodescanner:hideOnContentScroll
         */
         public static int ActionBar_hideOnContentScroll = 19;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:homeAsUpIndicator
+          @attr name com.safaeean.barcodescanner:homeAsUpIndicator
         */
         public static int ActionBar_homeAsUpIndicator = 26;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#homeLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#homeLayout}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:homeLayout
+          @attr name com.safaeean.barcodescanner:homeLayout
         */
         public static int ActionBar_homeLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#icon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#icon}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:icon
+          @attr name com.safaeean.barcodescanner:icon
         */
         public static int ActionBar_icon = 7;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#indeterminateProgressStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#indeterminateProgressStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:indeterminateProgressStyle
+          @attr name com.safaeean.barcodescanner:indeterminateProgressStyle
         */
         public static int ActionBar_indeterminateProgressStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#itemPadding}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#itemPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2658,21 +2658,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:itemPadding
+          @attr name com.safaeean.barcodescanner:itemPadding
         */
         public static int ActionBar_itemPadding = 18;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#logo}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:logo
+          @attr name com.safaeean.barcodescanner:logo
         */
         public static int ActionBar_logo = 8;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#navigationMode}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#navigationMode}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2686,21 +2686,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>listMode</code></td><td>1</td><td></td></tr>
 <tr><td><code>tabMode</code></td><td>2</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:navigationMode
+          @attr name com.safaeean.barcodescanner:navigationMode
         */
         public static int ActionBar_navigationMode = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#popupTheme}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:popupTheme
+          @attr name com.safaeean.barcodescanner:popupTheme
         */
         public static int ActionBar_popupTheme = 25;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#progressBarPadding}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#progressBarPadding}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2712,21 +2712,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:progressBarPadding
+          @attr name com.safaeean.barcodescanner:progressBarPadding
         */
         public static int ActionBar_progressBarPadding = 17;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#progressBarStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#progressBarStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:progressBarStyle
+          @attr name com.safaeean.barcodescanner:progressBarStyle
         */
         public static int ActionBar_progressBarStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#subtitle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2736,21 +2736,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:subtitle
+          @attr name com.safaeean.barcodescanner:subtitle
         */
         public static int ActionBar_subtitle = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:subtitleTextStyle
+          @attr name com.safaeean.barcodescanner:subtitleTextStyle
         */
         public static int ActionBar_subtitleTextStyle = 6;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#title}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#title}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
@@ -2760,17 +2760,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:title
+          @attr name com.safaeean.barcodescanner:title
         */
         public static int ActionBar_title = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionBar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:titleTextStyle
+          @attr name com.safaeean.barcodescanner:titleTextStyle
         */
         public static int ActionBar_titleTextStyle = 5;
         /** Attributes that can be used with a ActionBarLayout.
@@ -2822,12 +2822,12 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActionMode_background com.eguma.barcodescanner:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_backgroundSplit com.eguma.barcodescanner:backgroundSplit}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_closeItemLayout com.eguma.barcodescanner:closeItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_height com.eguma.barcodescanner:height}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.eguma.barcodescanner:subtitleTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActionMode_titleTextStyle com.eguma.barcodescanner:titleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_background com.safaeean.barcodescanner:background}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_backgroundSplit com.safaeean.barcodescanner:backgroundSplit}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_closeItemLayout com.safaeean.barcodescanner:closeItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_height com.safaeean.barcodescanner:height}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_subtitleTextStyle com.safaeean.barcodescanner:subtitleTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActionMode_titleTextStyle com.safaeean.barcodescanner:titleTextStyle}</code></td><td></td></tr>
            </table>
            @see #ActionMode_background
            @see #ActionMode_backgroundSplit
@@ -2841,17 +2841,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01000e, 0x7f01001c
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#background}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#background}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:background
+          @attr name com.safaeean.barcodescanner:background
         */
         public static int ActionMode_background = 3;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#backgroundSplit}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#backgroundSplit}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2859,21 +2859,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.eguma.barcodescanner:backgroundSplit
+          @attr name com.safaeean.barcodescanner:backgroundSplit
         */
         public static int ActionMode_backgroundSplit = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#closeItemLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#closeItemLayout}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:closeItemLayout
+          @attr name com.safaeean.barcodescanner:closeItemLayout
         */
         public static int ActionMode_closeItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#height}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#height}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
@@ -2885,27 +2885,27 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:height
+          @attr name com.safaeean.barcodescanner:height
         */
         public static int ActionMode_height = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#subtitleTextStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#subtitleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:subtitleTextStyle
+          @attr name com.safaeean.barcodescanner:subtitleTextStyle
         */
         public static int ActionMode_subtitleTextStyle = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleTextStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleTextStyle}
           attribute's value can be found in the {@link #ActionMode} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:titleTextStyle
+          @attr name com.safaeean.barcodescanner:titleTextStyle
         */
         public static int ActionMode_titleTextStyle = 1;
         /** Attributes that can be used with a ActivityChooserView.
@@ -2914,8 +2914,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.eguma.barcodescanner:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.eguma.barcodescanner:initialActivityCount}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_expandActivityOverflowButtonDrawable com.safaeean.barcodescanner:expandActivityOverflowButtonDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #ActivityChooserView_initialActivityCount com.safaeean.barcodescanner:initialActivityCount}</code></td><td></td></tr>
            </table>
            @see #ActivityChooserView_expandActivityOverflowButtonDrawable
            @see #ActivityChooserView_initialActivityCount
@@ -2924,17 +2924,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01001d, 0x7f01001e
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#expandActivityOverflowButtonDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#expandActivityOverflowButtonDrawable}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:expandActivityOverflowButtonDrawable
+          @attr name com.safaeean.barcodescanner:expandActivityOverflowButtonDrawable
         */
         public static int ActivityChooserView_expandActivityOverflowButtonDrawable = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#initialActivityCount}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#initialActivityCount}
           attribute's value can be found in the {@link #ActivityChooserView} array.
 
 
@@ -2944,7 +2944,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:initialActivityCount
+          @attr name com.safaeean.barcodescanner:initialActivityCount
         */
         public static int ActivityChooserView_initialActivityCount = 0;
         /** Attributes that can be used with a AlertDialog.
@@ -2954,11 +2954,11 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AlertDialog_android_layout android:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.eguma.barcodescanner:buttonPanelSideLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listItemLayout com.eguma.barcodescanner:listItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_listLayout com.eguma.barcodescanner:listLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.eguma.barcodescanner:multiChoiceItemLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.eguma.barcodescanner:singleChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_buttonPanelSideLayout com.safaeean.barcodescanner:buttonPanelSideLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listItemLayout com.safaeean.barcodescanner:listItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_listLayout com.safaeean.barcodescanner:listLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_multiChoiceItemLayout com.safaeean.barcodescanner:multiChoiceItemLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #AlertDialog_singleChoiceItemLayout com.safaeean.barcodescanner:singleChoiceItemLayout}</code></td><td></td></tr>
            </table>
            @see #AlertDialog_android_layout
            @see #AlertDialog_buttonPanelSideLayout
@@ -2978,53 +2978,53 @@ containing a value of this type.
         */
         public static int AlertDialog_android_layout = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonPanelSideLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonPanelSideLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:buttonPanelSideLayout
+          @attr name com.safaeean.barcodescanner:buttonPanelSideLayout
         */
         public static int AlertDialog_buttonPanelSideLayout = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listItemLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:listItemLayout
+          @attr name com.safaeean.barcodescanner:listItemLayout
         */
         public static int AlertDialog_listItemLayout = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:listLayout
+          @attr name com.safaeean.barcodescanner:listLayout
         */
         public static int AlertDialog_listLayout = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#multiChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#multiChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:multiChoiceItemLayout
+          @attr name com.safaeean.barcodescanner:multiChoiceItemLayout
         */
         public static int AlertDialog_multiChoiceItemLayout = 3;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#singleChoiceItemLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#singleChoiceItemLayout}
           attribute's value can be found in the {@link #AlertDialog} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:singleChoiceItemLayout
+          @attr name com.safaeean.barcodescanner:singleChoiceItemLayout
         */
         public static int AlertDialog_singleChoiceItemLayout = 4;
         /** Attributes that can be used with a AppCompatTextView.
@@ -3034,7 +3034,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #AppCompatTextView_android_textAppearance android:textAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.eguma.barcodescanner:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #AppCompatTextView_textAllCaps com.safaeean.barcodescanner:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #AppCompatTextView_android_textAppearance
            @see #AppCompatTextView_textAllCaps
@@ -3049,14 +3049,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int AppCompatTextView_android_textAppearance = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textAllCaps}
           attribute's value can be found in the {@link #AppCompatTextView} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.eguma.barcodescanner:textAllCaps
+          @attr name com.safaeean.barcodescanner:textAllCaps
         */
         public static int AppCompatTextView_textAllCaps = 1;
         /** Attributes that can be used with a CompoundButton.
@@ -3066,8 +3066,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #CompoundButton_android_button android:button}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTint com.eguma.barcodescanner:buttonTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #CompoundButton_buttonTintMode com.eguma.barcodescanner:buttonTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTint com.safaeean.barcodescanner:buttonTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #CompoundButton_buttonTintMode com.safaeean.barcodescanner:buttonTintMode}</code></td><td></td></tr>
            </table>
            @see #CompoundButton_android_button
            @see #CompoundButton_buttonTint
@@ -3083,7 +3083,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int CompoundButton_android_button = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonTint}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonTint}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3094,11 +3094,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:buttonTint
+          @attr name com.safaeean.barcodescanner:buttonTint
         */
         public static int CompoundButton_buttonTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonTintMode}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonTintMode}
           attribute's value can be found in the {@link #CompoundButton} array.
 
 
@@ -3114,7 +3114,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:buttonTintMode
+          @attr name com.safaeean.barcodescanner:buttonTintMode
         */
         public static int CompoundButton_buttonTintMode = 2;
         /** Attributes that can be used with a DrawerArrowToggle.
@@ -3123,14 +3123,14 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.eguma.barcodescanner:arrowHeadLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.eguma.barcodescanner:arrowShaftLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_barLength com.eguma.barcodescanner:barLength}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_color com.eguma.barcodescanner:color}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.eguma.barcodescanner:drawableSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.eguma.barcodescanner:gapBetweenBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.eguma.barcodescanner:spinBars}</code></td><td></td></tr>
-           <tr><td><code>{@link #DrawerArrowToggle_thickness com.eguma.barcodescanner:thickness}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowHeadLength com.safaeean.barcodescanner:arrowHeadLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_arrowShaftLength com.safaeean.barcodescanner:arrowShaftLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_barLength com.safaeean.barcodescanner:barLength}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_color com.safaeean.barcodescanner:color}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_drawableSize com.safaeean.barcodescanner:drawableSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_gapBetweenBars com.safaeean.barcodescanner:gapBetweenBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_spinBars com.safaeean.barcodescanner:spinBars}</code></td><td></td></tr>
+           <tr><td><code>{@link #DrawerArrowToggle_thickness com.safaeean.barcodescanner:thickness}</code></td><td></td></tr>
            </table>
            @see #DrawerArrowToggle_arrowHeadLength
            @see #DrawerArrowToggle_arrowShaftLength
@@ -3146,7 +3146,7 @@ containing a value of this type.
             0x7f01002b, 0x7f01002c, 0x7f01002d, 0x7f01002e
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#arrowHeadLength}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#arrowHeadLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3158,11 +3158,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:arrowHeadLength
+          @attr name com.safaeean.barcodescanner:arrowHeadLength
         */
         public static int DrawerArrowToggle_arrowHeadLength = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#arrowShaftLength}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#arrowShaftLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3174,11 +3174,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:arrowShaftLength
+          @attr name com.safaeean.barcodescanner:arrowShaftLength
         */
         public static int DrawerArrowToggle_arrowShaftLength = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#barLength}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#barLength}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3190,11 +3190,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:barLength
+          @attr name com.safaeean.barcodescanner:barLength
         */
         public static int DrawerArrowToggle_barLength = 6;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#color}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#color}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3205,11 +3205,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:color
+          @attr name com.safaeean.barcodescanner:color
         */
         public static int DrawerArrowToggle_color = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#drawableSize}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#drawableSize}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3221,11 +3221,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:drawableSize
+          @attr name com.safaeean.barcodescanner:drawableSize
         */
         public static int DrawerArrowToggle_drawableSize = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#gapBetweenBars}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#gapBetweenBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3237,11 +3237,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:gapBetweenBars
+          @attr name com.safaeean.barcodescanner:gapBetweenBars
         */
         public static int DrawerArrowToggle_gapBetweenBars = 3;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#spinBars}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#spinBars}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3251,11 +3251,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:spinBars
+          @attr name com.safaeean.barcodescanner:spinBars
         */
         public static int DrawerArrowToggle_spinBars = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#thickness}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#thickness}
           attribute's value can be found in the {@link #DrawerArrowToggle} array.
 
 
@@ -3267,7 +3267,7 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:thickness
+          @attr name com.safaeean.barcodescanner:thickness
         */
         public static int DrawerArrowToggle_thickness = 7;
         /** Attributes that can be used with a GenericDraweeHierarchy.
@@ -3276,31 +3276,31 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.eguma.barcodescanner:actualImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.eguma.barcodescanner:backgroundImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.eguma.barcodescanner:fadeDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.eguma.barcodescanner:failureImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.eguma.barcodescanner:failureImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.eguma.barcodescanner:overlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.eguma.barcodescanner:placeholderImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.eguma.barcodescanner:placeholderImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.eguma.barcodescanner:pressedStateOverlayImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.eguma.barcodescanner:progressBarAutoRotateInterval}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.eguma.barcodescanner:progressBarImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.eguma.barcodescanner:progressBarImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.eguma.barcodescanner:retryImage}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.eguma.barcodescanner:retryImageScaleType}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.eguma.barcodescanner:roundAsCircle}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.eguma.barcodescanner:roundBottomLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.eguma.barcodescanner:roundBottomRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.eguma.barcodescanner:roundTopLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.eguma.barcodescanner:roundTopRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.eguma.barcodescanner:roundWithOverlayColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.eguma.barcodescanner:roundedCornerRadius}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.eguma.barcodescanner:roundingBorderColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.eguma.barcodescanner:roundingBorderPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.eguma.barcodescanner:roundingBorderWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.eguma.barcodescanner:viewAspectRatio}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_actualImageScaleType com.safaeean.barcodescanner:actualImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_backgroundImage com.safaeean.barcodescanner:backgroundImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_fadeDuration com.safaeean.barcodescanner:fadeDuration}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_failureImage com.safaeean.barcodescanner:failureImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_failureImageScaleType com.safaeean.barcodescanner:failureImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_overlayImage com.safaeean.barcodescanner:overlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImage com.safaeean.barcodescanner:placeholderImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_placeholderImageScaleType com.safaeean.barcodescanner:placeholderImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_pressedStateOverlayImage com.safaeean.barcodescanner:pressedStateOverlayImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarAutoRotateInterval com.safaeean.barcodescanner:progressBarAutoRotateInterval}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImage com.safaeean.barcodescanner:progressBarImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_progressBarImageScaleType com.safaeean.barcodescanner:progressBarImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_retryImage com.safaeean.barcodescanner:retryImage}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_retryImageScaleType com.safaeean.barcodescanner:retryImageScaleType}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundAsCircle com.safaeean.barcodescanner:roundAsCircle}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomLeft com.safaeean.barcodescanner:roundBottomLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundBottomRight com.safaeean.barcodescanner:roundBottomRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopLeft com.safaeean.barcodescanner:roundTopLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundTopRight com.safaeean.barcodescanner:roundTopRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundWithOverlayColor com.safaeean.barcodescanner:roundWithOverlayColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundedCornerRadius com.safaeean.barcodescanner:roundedCornerRadius}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderColor com.safaeean.barcodescanner:roundingBorderColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderPadding com.safaeean.barcodescanner:roundingBorderPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_roundingBorderWidth com.safaeean.barcodescanner:roundingBorderWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #GenericDraweeHierarchy_viewAspectRatio com.safaeean.barcodescanner:viewAspectRatio}</code></td><td></td></tr>
            </table>
            @see #GenericDraweeHierarchy_actualImageScaleType
            @see #GenericDraweeHierarchy_backgroundImage
@@ -3338,7 +3338,7 @@ containing a value of this type.
             0x7f010047
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actualImageScaleType}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actualImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3358,21 +3358,21 @@ containing a value of this type.
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:actualImageScaleType
+          @attr name com.safaeean.barcodescanner:actualImageScaleType
         */
         public static int GenericDraweeHierarchy_actualImageScaleType = 11;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#backgroundImage}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#backgroundImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:backgroundImage
+          @attr name com.safaeean.barcodescanner:backgroundImage
         */
         public static int GenericDraweeHierarchy_backgroundImage = 12;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#fadeDuration}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#fadeDuration}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3382,21 +3382,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:fadeDuration
+          @attr name com.safaeean.barcodescanner:fadeDuration
         */
         public static int GenericDraweeHierarchy_fadeDuration = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#failureImage}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#failureImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:failureImage
+          @attr name com.safaeean.barcodescanner:failureImage
         */
         public static int GenericDraweeHierarchy_failureImage = 6;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#failureImageScaleType}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#failureImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3416,31 +3416,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:failureImageScaleType
+          @attr name com.safaeean.barcodescanner:failureImageScaleType
         */
         public static int GenericDraweeHierarchy_failureImageScaleType = 7;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#overlayImage}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#overlayImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:overlayImage
+          @attr name com.safaeean.barcodescanner:overlayImage
         */
         public static int GenericDraweeHierarchy_overlayImage = 13;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#placeholderImage}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#placeholderImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:placeholderImage
+          @attr name com.safaeean.barcodescanner:placeholderImage
         */
         public static int GenericDraweeHierarchy_placeholderImage = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#placeholderImageScaleType}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#placeholderImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3460,21 +3460,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:placeholderImageScaleType
+          @attr name com.safaeean.barcodescanner:placeholderImageScaleType
         */
         public static int GenericDraweeHierarchy_placeholderImageScaleType = 3;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#pressedStateOverlayImage}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#pressedStateOverlayImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:pressedStateOverlayImage
+          @attr name com.safaeean.barcodescanner:pressedStateOverlayImage
         */
         public static int GenericDraweeHierarchy_pressedStateOverlayImage = 14;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#progressBarAutoRotateInterval}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#progressBarAutoRotateInterval}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3484,21 +3484,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:progressBarAutoRotateInterval
+          @attr name com.safaeean.barcodescanner:progressBarAutoRotateInterval
         */
         public static int GenericDraweeHierarchy_progressBarAutoRotateInterval = 10;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#progressBarImage}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#progressBarImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:progressBarImage
+          @attr name com.safaeean.barcodescanner:progressBarImage
         */
         public static int GenericDraweeHierarchy_progressBarImage = 8;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#progressBarImageScaleType}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#progressBarImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3518,21 +3518,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:progressBarImageScaleType
+          @attr name com.safaeean.barcodescanner:progressBarImageScaleType
         */
         public static int GenericDraweeHierarchy_progressBarImageScaleType = 9;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#retryImage}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#retryImage}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:retryImage
+          @attr name com.safaeean.barcodescanner:retryImage
         */
         public static int GenericDraweeHierarchy_retryImage = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#retryImageScaleType}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#retryImageScaleType}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3552,11 +3552,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 <tr><td><code>centerCrop</code></td><td>6</td><td></td></tr>
 <tr><td><code>focusCrop</code></td><td>7</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:retryImageScaleType
+          @attr name com.safaeean.barcodescanner:retryImageScaleType
         */
         public static int GenericDraweeHierarchy_retryImageScaleType = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundAsCircle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundAsCircle}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3566,11 +3566,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundAsCircle
+          @attr name com.safaeean.barcodescanner:roundAsCircle
         */
         public static int GenericDraweeHierarchy_roundAsCircle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundBottomLeft}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundBottomLeft}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3580,11 +3580,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundBottomLeft
+          @attr name com.safaeean.barcodescanner:roundBottomLeft
         */
         public static int GenericDraweeHierarchy_roundBottomLeft = 20;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundBottomRight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundBottomRight}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3594,11 +3594,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundBottomRight
+          @attr name com.safaeean.barcodescanner:roundBottomRight
         */
         public static int GenericDraweeHierarchy_roundBottomRight = 19;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundTopLeft}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundTopLeft}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3608,11 +3608,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundTopLeft
+          @attr name com.safaeean.barcodescanner:roundTopLeft
         */
         public static int GenericDraweeHierarchy_roundTopLeft = 17;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundTopRight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundTopRight}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3622,11 +3622,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundTopRight
+          @attr name com.safaeean.barcodescanner:roundTopRight
         */
         public static int GenericDraweeHierarchy_roundTopRight = 18;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundWithOverlayColor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundWithOverlayColor}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3637,11 +3637,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundWithOverlayColor
+          @attr name com.safaeean.barcodescanner:roundWithOverlayColor
         */
         public static int GenericDraweeHierarchy_roundWithOverlayColor = 21;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundedCornerRadius}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundedCornerRadius}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3653,11 +3653,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundedCornerRadius
+          @attr name com.safaeean.barcodescanner:roundedCornerRadius
         */
         public static int GenericDraweeHierarchy_roundedCornerRadius = 16;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundingBorderColor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundingBorderColor}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3668,11 +3668,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundingBorderColor
+          @attr name com.safaeean.barcodescanner:roundingBorderColor
         */
         public static int GenericDraweeHierarchy_roundingBorderColor = 23;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundingBorderPadding}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundingBorderPadding}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3684,11 +3684,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundingBorderPadding
+          @attr name com.safaeean.barcodescanner:roundingBorderPadding
         */
         public static int GenericDraweeHierarchy_roundingBorderPadding = 24;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#roundingBorderWidth}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#roundingBorderWidth}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3700,11 +3700,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:roundingBorderWidth
+          @attr name com.safaeean.barcodescanner:roundingBorderWidth
         */
         public static int GenericDraweeHierarchy_roundingBorderWidth = 22;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#viewAspectRatio}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#viewAspectRatio}
           attribute's value can be found in the {@link #GenericDraweeHierarchy} array.
 
 
@@ -3714,7 +3714,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:viewAspectRatio
+          @attr name com.safaeean.barcodescanner:viewAspectRatio
         */
         public static int GenericDraweeHierarchy_viewAspectRatio = 1;
         /** Attributes that can be used with a LinearLayoutCompat.
@@ -3728,10 +3728,10 @@ containing a value of this type.
            <tr><td><code>{@link #LinearLayoutCompat_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_orientation android:orientation}</code></td><td></td></tr>
            <tr><td><code>{@link #LinearLayoutCompat_android_weightSum android:weightSum}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_divider com.eguma.barcodescanner:divider}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.eguma.barcodescanner:dividerPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.eguma.barcodescanner:measureWithLargestChild}</code></td><td></td></tr>
-           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.eguma.barcodescanner:showDividers}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_divider com.safaeean.barcodescanner:divider}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_dividerPadding com.safaeean.barcodescanner:dividerPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_measureWithLargestChild com.safaeean.barcodescanner:measureWithLargestChild}</code></td><td></td></tr>
+           <tr><td><code>{@link #LinearLayoutCompat_showDividers com.safaeean.barcodescanner:showDividers}</code></td><td></td></tr>
            </table>
            @see #LinearLayoutCompat_android_baselineAligned
            @see #LinearLayoutCompat_android_baselineAlignedChildIndex
@@ -3779,17 +3779,17 @@ containing a value of this type.
         */
         public static int LinearLayoutCompat_android_weightSum = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#divider}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#divider}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:divider
+          @attr name com.safaeean.barcodescanner:divider
         */
         public static int LinearLayoutCompat_divider = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#dividerPadding}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#dividerPadding}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3801,11 +3801,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:dividerPadding
+          @attr name com.safaeean.barcodescanner:dividerPadding
         */
         public static int LinearLayoutCompat_dividerPadding = 8;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#measureWithLargestChild}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#measureWithLargestChild}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3815,11 +3815,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:measureWithLargestChild
+          @attr name com.safaeean.barcodescanner:measureWithLargestChild
         */
         public static int LinearLayoutCompat_measureWithLargestChild = 6;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#showDividers}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#showDividers}
           attribute's value can be found in the {@link #LinearLayoutCompat} array.
 
 
@@ -3834,7 +3834,7 @@ containing a value of this type.
 <tr><td><code>middle</code></td><td>2</td><td></td></tr>
 <tr><td><code>end</code></td><td>4</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:showDividers
+          @attr name com.safaeean.barcodescanner:showDividers
         */
         public static int LinearLayoutCompat_showDividers = 7;
         /** Attributes that can be used with a LinearLayoutCompat_Layout.
@@ -3973,9 +3973,9 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #MenuItem_actionLayout com.eguma.barcodescanner:actionLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionProviderClass com.eguma.barcodescanner:actionProviderClass}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_actionViewClass com.eguma.barcodescanner:actionViewClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionLayout com.safaeean.barcodescanner:actionLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionProviderClass com.safaeean.barcodescanner:actionProviderClass}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_actionViewClass com.safaeean.barcodescanner:actionViewClass}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_alphabeticShortcut android:alphabeticShortcut}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checkable android:checkable}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_checked android:checked}</code></td><td></td></tr>
@@ -3989,7 +3989,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuItem_android_title android:title}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_titleCondensed android:titleCondensed}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuItem_android_visible android:visible}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuItem_showAsAction com.eguma.barcodescanner:showAsAction}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuItem_showAsAction com.safaeean.barcodescanner:showAsAction}</code></td><td></td></tr>
            </table>
            @see #MenuItem_actionLayout
            @see #MenuItem_actionProviderClass
@@ -4017,17 +4017,17 @@ containing a value of this type.
             0x7f01004e
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionLayout}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionLayout
+          @attr name com.safaeean.barcodescanner:actionLayout
         */
         public static int MenuItem_actionLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionProviderClass}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionProviderClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4037,11 +4037,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:actionProviderClass
+          @attr name com.safaeean.barcodescanner:actionProviderClass
         */
         public static int MenuItem_actionProviderClass = 16;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionViewClass}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionViewClass}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4051,7 +4051,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:actionViewClass
+          @attr name com.safaeean.barcodescanner:actionViewClass
         */
         public static int MenuItem_actionViewClass = 15;
         /**
@@ -4133,7 +4133,7 @@ containing a value of this type.
         */
         public static int MenuItem_android_visible = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#showAsAction}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#showAsAction}
           attribute's value can be found in the {@link #MenuItem} array.
 
 
@@ -4149,7 +4149,7 @@ containing a value of this type.
 <tr><td><code>withText</code></td><td>4</td><td></td></tr>
 <tr><td><code>collapseActionView</code></td><td>8</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:showAsAction
+          @attr name com.safaeean.barcodescanner:showAsAction
         */
         public static int MenuItem_showAsAction = 13;
         /** Attributes that can be used with a MenuView.
@@ -4165,7 +4165,7 @@ containing a value of this type.
            <tr><td><code>{@link #MenuView_android_itemTextAppearance android:itemTextAppearance}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_verticalDivider android:verticalDivider}</code></td><td></td></tr>
            <tr><td><code>{@link #MenuView_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #MenuView_preserveIconSpacing com.eguma.barcodescanner:preserveIconSpacing}</code></td><td></td></tr>
+           <tr><td><code>{@link #MenuView_preserveIconSpacing com.safaeean.barcodescanner:preserveIconSpacing}</code></td><td></td></tr>
            </table>
            @see #MenuView_android_headerBackground
            @see #MenuView_android_horizontalDivider
@@ -4223,7 +4223,7 @@ containing a value of this type.
         */
         public static int MenuView_android_windowAnimationStyle = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#preserveIconSpacing}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#preserveIconSpacing}
           attribute's value can be found in the {@link #MenuView} array.
 
 
@@ -4233,7 +4233,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:preserveIconSpacing
+          @attr name com.safaeean.barcodescanner:preserveIconSpacing
         */
         public static int MenuView_preserveIconSpacing = 7;
         /** Attributes that can be used with a PopupWindow.
@@ -4243,7 +4243,7 @@ containing a value of this type.
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #PopupWindow_android_popupBackground android:popupBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #PopupWindow_overlapAnchor com.eguma.barcodescanner:overlapAnchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindow_overlapAnchor com.safaeean.barcodescanner:overlapAnchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindow_android_popupBackground
            @see #PopupWindow_overlapAnchor
@@ -4258,7 +4258,7 @@ containing a value of this type.
         */
         public static int PopupWindow_android_popupBackground = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#overlapAnchor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#overlapAnchor}
           attribute's value can be found in the {@link #PopupWindow} array.
 
 
@@ -4268,7 +4268,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:overlapAnchor
+          @attr name com.safaeean.barcodescanner:overlapAnchor
         */
         public static int PopupWindow_overlapAnchor = 1;
         /** Attributes that can be used with a PopupWindowBackgroundState.
@@ -4277,7 +4277,7 @@ containing a value of this type.
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.eguma.barcodescanner:state_above_anchor}</code></td><td></td></tr>
+           <tr><td><code>{@link #PopupWindowBackgroundState_state_above_anchor com.safaeean.barcodescanner:state_above_anchor}</code></td><td></td></tr>
            </table>
            @see #PopupWindowBackgroundState_state_above_anchor
          */
@@ -4285,7 +4285,7 @@ containing a value of this type.
             0x7f010051
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#state_above_anchor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#state_above_anchor}
           attribute's value can be found in the {@link #PopupWindowBackgroundState} array.
 
 
@@ -4295,7 +4295,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:state_above_anchor
+          @attr name com.safaeean.barcodescanner:state_above_anchor
         */
         public static int PopupWindowBackgroundState_state_above_anchor = 0;
         /** Attributes that can be used with a SearchView.
@@ -4308,19 +4308,19 @@ containing a value of this type.
            <tr><td><code>{@link #SearchView_android_imeOptions android:imeOptions}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_inputType android:inputType}</code></td><td></td></tr>
            <tr><td><code>{@link #SearchView_android_maxWidth android:maxWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_closeIcon com.eguma.barcodescanner:closeIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_commitIcon com.eguma.barcodescanner:commitIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_defaultQueryHint com.eguma.barcodescanner:defaultQueryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_goIcon com.eguma.barcodescanner:goIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_iconifiedByDefault com.eguma.barcodescanner:iconifiedByDefault}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_layout com.eguma.barcodescanner:layout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryBackground com.eguma.barcodescanner:queryBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_queryHint com.eguma.barcodescanner:queryHint}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchHintIcon com.eguma.barcodescanner:searchHintIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_searchIcon com.eguma.barcodescanner:searchIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_submitBackground com.eguma.barcodescanner:submitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_suggestionRowLayout com.eguma.barcodescanner:suggestionRowLayout}</code></td><td></td></tr>
-           <tr><td><code>{@link #SearchView_voiceIcon com.eguma.barcodescanner:voiceIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_closeIcon com.safaeean.barcodescanner:closeIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_commitIcon com.safaeean.barcodescanner:commitIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_defaultQueryHint com.safaeean.barcodescanner:defaultQueryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_goIcon com.safaeean.barcodescanner:goIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_iconifiedByDefault com.safaeean.barcodescanner:iconifiedByDefault}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_layout com.safaeean.barcodescanner:layout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryBackground com.safaeean.barcodescanner:queryBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_queryHint com.safaeean.barcodescanner:queryHint}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchHintIcon com.safaeean.barcodescanner:searchHintIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_searchIcon com.safaeean.barcodescanner:searchIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_submitBackground com.safaeean.barcodescanner:submitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_suggestionRowLayout com.safaeean.barcodescanner:suggestionRowLayout}</code></td><td></td></tr>
+           <tr><td><code>{@link #SearchView_voiceIcon com.safaeean.barcodescanner:voiceIcon}</code></td><td></td></tr>
            </table>
            @see #SearchView_android_focusable
            @see #SearchView_android_imeOptions
@@ -4372,27 +4372,27 @@ containing a value of this type.
         */
         public static int SearchView_android_maxWidth = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#closeIcon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#closeIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:closeIcon
+          @attr name com.safaeean.barcodescanner:closeIcon
         */
         public static int SearchView_closeIcon = 8;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#commitIcon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#commitIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:commitIcon
+          @attr name com.safaeean.barcodescanner:commitIcon
         */
         public static int SearchView_commitIcon = 13;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#defaultQueryHint}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#defaultQueryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4402,21 +4402,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:defaultQueryHint
+          @attr name com.safaeean.barcodescanner:defaultQueryHint
         */
         public static int SearchView_defaultQueryHint = 7;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#goIcon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#goIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:goIcon
+          @attr name com.safaeean.barcodescanner:goIcon
         */
         public static int SearchView_goIcon = 9;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#iconifiedByDefault}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#iconifiedByDefault}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4426,31 +4426,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:iconifiedByDefault
+          @attr name com.safaeean.barcodescanner:iconifiedByDefault
         */
         public static int SearchView_iconifiedByDefault = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#layout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#layout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:layout
+          @attr name com.safaeean.barcodescanner:layout
         */
         public static int SearchView_layout = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#queryBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#queryBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:queryBackground
+          @attr name com.safaeean.barcodescanner:queryBackground
         */
         public static int SearchView_queryBackground = 15;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#queryHint}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#queryHint}
           attribute's value can be found in the {@link #SearchView} array.
 
 
@@ -4460,57 +4460,57 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:queryHint
+          @attr name com.safaeean.barcodescanner:queryHint
         */
         public static int SearchView_queryHint = 6;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#searchHintIcon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#searchHintIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:searchHintIcon
+          @attr name com.safaeean.barcodescanner:searchHintIcon
         */
         public static int SearchView_searchHintIcon = 11;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#searchIcon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#searchIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:searchIcon
+          @attr name com.safaeean.barcodescanner:searchIcon
         */
         public static int SearchView_searchIcon = 10;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#submitBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#submitBackground}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:submitBackground
+          @attr name com.safaeean.barcodescanner:submitBackground
         */
         public static int SearchView_submitBackground = 16;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#suggestionRowLayout}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#suggestionRowLayout}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:suggestionRowLayout
+          @attr name com.safaeean.barcodescanner:suggestionRowLayout
         */
         public static int SearchView_suggestionRowLayout = 14;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#voiceIcon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#voiceIcon}
           attribute's value can be found in the {@link #SearchView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:voiceIcon
+          @attr name com.safaeean.barcodescanner:voiceIcon
         */
         public static int SearchView_voiceIcon = 12;
         /** Attributes that can be used with a SimpleDraweeView.
@@ -4519,8 +4519,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.eguma.barcodescanner:actualImageResource}</code></td><td></td></tr>
-           <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.eguma.barcodescanner:actualImageUri}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_actualImageResource com.safaeean.barcodescanner:actualImageResource}</code></td><td></td></tr>
+           <tr><td><code>{@link #SimpleDraweeView_actualImageUri com.safaeean.barcodescanner:actualImageUri}</code></td><td></td></tr>
            </table>
            @see #SimpleDraweeView_actualImageResource
            @see #SimpleDraweeView_actualImageUri
@@ -4529,17 +4529,17 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f01005f, 0x7f010060
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actualImageResource}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actualImageResource}
           attribute's value can be found in the {@link #SimpleDraweeView} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actualImageResource
+          @attr name com.safaeean.barcodescanner:actualImageResource
         */
         public static int SimpleDraweeView_actualImageResource = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actualImageUri}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actualImageUri}
           attribute's value can be found in the {@link #SimpleDraweeView} array.
 
 
@@ -4549,7 +4549,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:actualImageUri
+          @attr name com.safaeean.barcodescanner:actualImageUri
         */
         public static int SimpleDraweeView_actualImageUri = 0;
         /** Attributes that can be used with a Spinner.
@@ -4561,7 +4561,7 @@ containing a value of this type.
            <tr><td><code>{@link #Spinner_android_dropDownWidth android:dropDownWidth}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_popupBackground android:popupBackground}</code></td><td></td></tr>
            <tr><td><code>{@link #Spinner_android_prompt android:prompt}</code></td><td></td></tr>
-           <tr><td><code>{@link #Spinner_popupTheme com.eguma.barcodescanner:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Spinner_popupTheme com.safaeean.barcodescanner:popupTheme}</code></td><td></td></tr>
            </table>
            @see #Spinner_android_dropDownWidth
            @see #Spinner_android_popupBackground
@@ -4590,13 +4590,13 @@ containing a value of this type.
         */
         public static int Spinner_android_prompt = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#popupTheme}
           attribute's value can be found in the {@link #Spinner} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:popupTheme
+          @attr name com.safaeean.barcodescanner:popupTheme
         */
         public static int Spinner_popupTheme = 3;
         /** Attributes that can be used with a SwitchCompat.
@@ -4608,13 +4608,13 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #SwitchCompat_android_textOff android:textOff}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_textOn android:textOn}</code></td><td></td></tr>
            <tr><td><code>{@link #SwitchCompat_android_thumb android:thumb}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_showText com.eguma.barcodescanner:showText}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_splitTrack com.eguma.barcodescanner:splitTrack}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.eguma.barcodescanner:switchMinWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchPadding com.eguma.barcodescanner:switchPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.eguma.barcodescanner:switchTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.eguma.barcodescanner:thumbTextPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #SwitchCompat_track com.eguma.barcodescanner:track}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_showText com.safaeean.barcodescanner:showText}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_splitTrack com.safaeean.barcodescanner:splitTrack}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchMinWidth com.safaeean.barcodescanner:switchMinWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchPadding com.safaeean.barcodescanner:switchPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_switchTextAppearance com.safaeean.barcodescanner:switchTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_thumbTextPadding com.safaeean.barcodescanner:thumbTextPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #SwitchCompat_track com.safaeean.barcodescanner:track}</code></td><td></td></tr>
            </table>
            @see #SwitchCompat_android_textOff
            @see #SwitchCompat_android_textOn
@@ -4651,7 +4651,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int SwitchCompat_android_thumb = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#showText}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#showText}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4661,11 +4661,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:showText
+          @attr name com.safaeean.barcodescanner:showText
         */
         public static int SwitchCompat_showText = 9;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#splitTrack}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#splitTrack}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4675,11 +4675,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:splitTrack
+          @attr name com.safaeean.barcodescanner:splitTrack
         */
         public static int SwitchCompat_splitTrack = 8;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#switchMinWidth}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#switchMinWidth}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4691,11 +4691,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:switchMinWidth
+          @attr name com.safaeean.barcodescanner:switchMinWidth
         */
         public static int SwitchCompat_switchMinWidth = 6;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#switchPadding}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#switchPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4707,21 +4707,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:switchPadding
+          @attr name com.safaeean.barcodescanner:switchPadding
         */
         public static int SwitchCompat_switchPadding = 7;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#switchTextAppearance}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#switchTextAppearance}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:switchTextAppearance
+          @attr name com.safaeean.barcodescanner:switchTextAppearance
         */
         public static int SwitchCompat_switchTextAppearance = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#thumbTextPadding}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#thumbTextPadding}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
@@ -4733,17 +4733,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:thumbTextPadding
+          @attr name com.safaeean.barcodescanner:thumbTextPadding
         */
         public static int SwitchCompat_thumbTextPadding = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#track}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#track}
           attribute's value can be found in the {@link #SwitchCompat} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:track
+          @attr name com.safaeean.barcodescanner:track
         */
         public static int SwitchCompat_track = 3;
         /** Attributes that can be used with a TextAppearance.
@@ -4760,7 +4760,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <tr><td><code>{@link #TextAppearance_android_textSize android:textSize}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_textStyle android:textStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #TextAppearance_android_typeface android:typeface}</code></td><td></td></tr>
-           <tr><td><code>{@link #TextAppearance_textAllCaps com.eguma.barcodescanner:textAllCaps}</code></td><td></td></tr>
+           <tr><td><code>{@link #TextAppearance_textAllCaps com.safaeean.barcodescanner:textAllCaps}</code></td><td></td></tr>
            </table>
            @see #TextAppearance_android_shadowColor
            @see #TextAppearance_android_shadowDx
@@ -4826,14 +4826,14 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int TextAppearance_android_typeface = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textAllCaps}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textAllCaps}
           attribute's value can be found in the {@link #TextAppearance} array.
 
 
           <p>May be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a boolean value, either "<code>true</code>" or "<code>false</code>".
-          @attr name com.eguma.barcodescanner:textAllCaps
+          @attr name com.safaeean.barcodescanner:textAllCaps
         */
         public static int TextAppearance_textAllCaps = 8;
         /** Attributes that can be used with a TextStyle.
@@ -4943,114 +4943,114 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
-           <tr><td><code>{@link #Theme_actionBarDivider com.eguma.barcodescanner:actionBarDivider}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarItemBackground com.eguma.barcodescanner:actionBarItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarPopupTheme com.eguma.barcodescanner:actionBarPopupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSize com.eguma.barcodescanner:actionBarSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarSplitStyle com.eguma.barcodescanner:actionBarSplitStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarStyle com.eguma.barcodescanner:actionBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.eguma.barcodescanner:actionBarTabBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabStyle com.eguma.barcodescanner:actionBarTabStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.eguma.barcodescanner:actionBarTabTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarTheme com.eguma.barcodescanner:actionBarTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.eguma.barcodescanner:actionBarWidgetTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionButtonStyle com.eguma.barcodescanner:actionButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionDropDownStyle com.eguma.barcodescanner:actionDropDownStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.eguma.barcodescanner:actionMenuTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionMenuTextColor com.eguma.barcodescanner:actionMenuTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeBackground com.eguma.barcodescanner:actionModeBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.eguma.barcodescanner:actionModeCloseButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.eguma.barcodescanner:actionModeCloseDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.eguma.barcodescanner:actionModeCopyDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeCutDrawable com.eguma.barcodescanner:actionModeCutDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeFindDrawable com.eguma.barcodescanner:actionModeFindDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePasteDrawable com.eguma.barcodescanner:actionModePasteDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.eguma.barcodescanner:actionModePopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.eguma.barcodescanner:actionModeSelectAllDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeShareDrawable com.eguma.barcodescanner:actionModeShareDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeSplitBackground com.eguma.barcodescanner:actionModeSplitBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeStyle com.eguma.barcodescanner:actionModeStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.eguma.barcodescanner:actionModeWebSearchDrawable}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.eguma.barcodescanner:actionOverflowButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.eguma.barcodescanner:actionOverflowMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_activityChooserViewStyle com.eguma.barcodescanner:activityChooserViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.eguma.barcodescanner:alertDialogButtonGroupStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.eguma.barcodescanner:alertDialogCenterButtons}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogStyle com.eguma.barcodescanner:alertDialogStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_alertDialogTheme com.eguma.barcodescanner:alertDialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarDivider com.safaeean.barcodescanner:actionBarDivider}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarItemBackground com.safaeean.barcodescanner:actionBarItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarPopupTheme com.safaeean.barcodescanner:actionBarPopupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSize com.safaeean.barcodescanner:actionBarSize}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarSplitStyle com.safaeean.barcodescanner:actionBarSplitStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarStyle com.safaeean.barcodescanner:actionBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabBarStyle com.safaeean.barcodescanner:actionBarTabBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabStyle com.safaeean.barcodescanner:actionBarTabStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTabTextStyle com.safaeean.barcodescanner:actionBarTabTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarTheme com.safaeean.barcodescanner:actionBarTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionBarWidgetTheme com.safaeean.barcodescanner:actionBarWidgetTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionButtonStyle com.safaeean.barcodescanner:actionButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionDropDownStyle com.safaeean.barcodescanner:actionDropDownStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextAppearance com.safaeean.barcodescanner:actionMenuTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionMenuTextColor com.safaeean.barcodescanner:actionMenuTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeBackground com.safaeean.barcodescanner:actionModeBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseButtonStyle com.safaeean.barcodescanner:actionModeCloseButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCloseDrawable com.safaeean.barcodescanner:actionModeCloseDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCopyDrawable com.safaeean.barcodescanner:actionModeCopyDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeCutDrawable com.safaeean.barcodescanner:actionModeCutDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeFindDrawable com.safaeean.barcodescanner:actionModeFindDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePasteDrawable com.safaeean.barcodescanner:actionModePasteDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModePopupWindowStyle com.safaeean.barcodescanner:actionModePopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSelectAllDrawable com.safaeean.barcodescanner:actionModeSelectAllDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeShareDrawable com.safaeean.barcodescanner:actionModeShareDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeSplitBackground com.safaeean.barcodescanner:actionModeSplitBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeStyle com.safaeean.barcodescanner:actionModeStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionModeWebSearchDrawable com.safaeean.barcodescanner:actionModeWebSearchDrawable}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowButtonStyle com.safaeean.barcodescanner:actionOverflowButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_actionOverflowMenuStyle com.safaeean.barcodescanner:actionOverflowMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_activityChooserViewStyle com.safaeean.barcodescanner:activityChooserViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogButtonGroupStyle com.safaeean.barcodescanner:alertDialogButtonGroupStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogCenterButtons com.safaeean.barcodescanner:alertDialogCenterButtons}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogStyle com.safaeean.barcodescanner:alertDialogStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_alertDialogTheme com.safaeean.barcodescanner:alertDialogTheme}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowAnimationStyle android:windowAnimationStyle}</code></td><td></td></tr>
            <tr><td><code>{@link #Theme_android_windowIsFloating android:windowIsFloating}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.eguma.barcodescanner:autoCompleteTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_borderlessButtonStyle com.eguma.barcodescanner:borderlessButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.eguma.barcodescanner:buttonBarButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.eguma.barcodescanner:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.eguma.barcodescanner:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.eguma.barcodescanner:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonBarStyle com.eguma.barcodescanner:buttonBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyle com.eguma.barcodescanner:buttonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_buttonStyleSmall com.eguma.barcodescanner:buttonStyleSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkboxStyle com.eguma.barcodescanner:checkboxStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_checkedTextViewStyle com.eguma.barcodescanner:checkedTextViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorAccent com.eguma.barcodescanner:colorAccent}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorButtonNormal com.eguma.barcodescanner:colorButtonNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlActivated com.eguma.barcodescanner:colorControlActivated}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlHighlight com.eguma.barcodescanner:colorControlHighlight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorControlNormal com.eguma.barcodescanner:colorControlNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimary com.eguma.barcodescanner:colorPrimary}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorPrimaryDark com.eguma.barcodescanner:colorPrimaryDark}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.eguma.barcodescanner:colorSwitchThumbNormal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_controlBackground com.eguma.barcodescanner:controlBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogPreferredPadding com.eguma.barcodescanner:dialogPreferredPadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dialogTheme com.eguma.barcodescanner:dialogTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerHorizontal com.eguma.barcodescanner:dividerHorizontal}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dividerVertical com.eguma.barcodescanner:dividerVertical}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropDownListViewStyle com.eguma.barcodescanner:dropDownListViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.eguma.barcodescanner:dropdownListPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextBackground com.eguma.barcodescanner:editTextBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextColor com.eguma.barcodescanner:editTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_editTextStyle com.eguma.barcodescanner:editTextStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_homeAsUpIndicator com.eguma.barcodescanner:homeAsUpIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.eguma.barcodescanner:listChoiceBackgroundIndicator}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listDividerAlertDialog com.eguma.barcodescanner:listDividerAlertDialog}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPopupWindowStyle com.eguma.barcodescanner:listPopupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeight com.eguma.barcodescanner:listPreferredItemHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.eguma.barcodescanner:listPreferredItemHeightLarge}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.eguma.barcodescanner:listPreferredItemHeightSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.eguma.barcodescanner:listPreferredItemPaddingLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.eguma.barcodescanner:listPreferredItemPaddingRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelBackground com.eguma.barcodescanner:panelBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListTheme com.eguma.barcodescanner:panelMenuListTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_panelMenuListWidth com.eguma.barcodescanner:panelMenuListWidth}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupMenuStyle com.eguma.barcodescanner:popupMenuStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_popupWindowStyle com.eguma.barcodescanner:popupWindowStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_radioButtonStyle com.eguma.barcodescanner:radioButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_ratingBarStyle com.eguma.barcodescanner:ratingBarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_searchViewStyle com.eguma.barcodescanner:searchViewStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackground com.eguma.barcodescanner:selectableItemBackground}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.eguma.barcodescanner:selectableItemBackgroundBorderless}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.eguma.barcodescanner:spinnerDropDownItemStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_spinnerStyle com.eguma.barcodescanner:spinnerStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_switchStyle com.eguma.barcodescanner:switchStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.eguma.barcodescanner:textAppearanceLargePopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItem com.eguma.barcodescanner:textAppearanceListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.eguma.barcodescanner:textAppearanceListItemSmall}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.eguma.barcodescanner:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.eguma.barcodescanner:textAppearanceSearchResultTitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.eguma.barcodescanner:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.eguma.barcodescanner:textColorAlertDialogListItem}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_textColorSearchUrl com.eguma.barcodescanner:textColorSearchUrl}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.eguma.barcodescanner:toolbarNavigationButtonStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_toolbarStyle com.eguma.barcodescanner:toolbarStyle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBar com.eguma.barcodescanner:windowActionBar}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionBarOverlay com.eguma.barcodescanner:windowActionBarOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowActionModeOverlay com.eguma.barcodescanner:windowActionModeOverlay}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.eguma.barcodescanner:windowFixedHeightMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.eguma.barcodescanner:windowFixedHeightMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.eguma.barcodescanner:windowFixedWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.eguma.barcodescanner:windowFixedWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMajor com.eguma.barcodescanner:windowMinWidthMajor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowMinWidthMinor com.eguma.barcodescanner:windowMinWidthMinor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Theme_windowNoTitle com.eguma.barcodescanner:windowNoTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_autoCompleteTextViewStyle com.safaeean.barcodescanner:autoCompleteTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_borderlessButtonStyle com.safaeean.barcodescanner:borderlessButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarButtonStyle com.safaeean.barcodescanner:buttonBarButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNegativeButtonStyle com.safaeean.barcodescanner:buttonBarNegativeButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarNeutralButtonStyle com.safaeean.barcodescanner:buttonBarNeutralButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarPositiveButtonStyle com.safaeean.barcodescanner:buttonBarPositiveButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonBarStyle com.safaeean.barcodescanner:buttonBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyle com.safaeean.barcodescanner:buttonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_buttonStyleSmall com.safaeean.barcodescanner:buttonStyleSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkboxStyle com.safaeean.barcodescanner:checkboxStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_checkedTextViewStyle com.safaeean.barcodescanner:checkedTextViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorAccent com.safaeean.barcodescanner:colorAccent}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorButtonNormal com.safaeean.barcodescanner:colorButtonNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlActivated com.safaeean.barcodescanner:colorControlActivated}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlHighlight com.safaeean.barcodescanner:colorControlHighlight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorControlNormal com.safaeean.barcodescanner:colorControlNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimary com.safaeean.barcodescanner:colorPrimary}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorPrimaryDark com.safaeean.barcodescanner:colorPrimaryDark}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_colorSwitchThumbNormal com.safaeean.barcodescanner:colorSwitchThumbNormal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_controlBackground com.safaeean.barcodescanner:controlBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogPreferredPadding com.safaeean.barcodescanner:dialogPreferredPadding}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dialogTheme com.safaeean.barcodescanner:dialogTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerHorizontal com.safaeean.barcodescanner:dividerHorizontal}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dividerVertical com.safaeean.barcodescanner:dividerVertical}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropDownListViewStyle com.safaeean.barcodescanner:dropDownListViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_dropdownListPreferredItemHeight com.safaeean.barcodescanner:dropdownListPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextBackground com.safaeean.barcodescanner:editTextBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextColor com.safaeean.barcodescanner:editTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_editTextStyle com.safaeean.barcodescanner:editTextStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_homeAsUpIndicator com.safaeean.barcodescanner:homeAsUpIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listChoiceBackgroundIndicator com.safaeean.barcodescanner:listChoiceBackgroundIndicator}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listDividerAlertDialog com.safaeean.barcodescanner:listDividerAlertDialog}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPopupWindowStyle com.safaeean.barcodescanner:listPopupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeight com.safaeean.barcodescanner:listPreferredItemHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightLarge com.safaeean.barcodescanner:listPreferredItemHeightLarge}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemHeightSmall com.safaeean.barcodescanner:listPreferredItemHeightSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingLeft com.safaeean.barcodescanner:listPreferredItemPaddingLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_listPreferredItemPaddingRight com.safaeean.barcodescanner:listPreferredItemPaddingRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelBackground com.safaeean.barcodescanner:panelBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListTheme com.safaeean.barcodescanner:panelMenuListTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_panelMenuListWidth com.safaeean.barcodescanner:panelMenuListWidth}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupMenuStyle com.safaeean.barcodescanner:popupMenuStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_popupWindowStyle com.safaeean.barcodescanner:popupWindowStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_radioButtonStyle com.safaeean.barcodescanner:radioButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_ratingBarStyle com.safaeean.barcodescanner:ratingBarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_searchViewStyle com.safaeean.barcodescanner:searchViewStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackground com.safaeean.barcodescanner:selectableItemBackground}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_selectableItemBackgroundBorderless com.safaeean.barcodescanner:selectableItemBackgroundBorderless}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerDropDownItemStyle com.safaeean.barcodescanner:spinnerDropDownItemStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_spinnerStyle com.safaeean.barcodescanner:spinnerStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_switchStyle com.safaeean.barcodescanner:switchStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceLargePopupMenu com.safaeean.barcodescanner:textAppearanceLargePopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItem com.safaeean.barcodescanner:textAppearanceListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceListItemSmall com.safaeean.barcodescanner:textAppearanceListItemSmall}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultSubtitle com.safaeean.barcodescanner:textAppearanceSearchResultSubtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSearchResultTitle com.safaeean.barcodescanner:textAppearanceSearchResultTitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textAppearanceSmallPopupMenu com.safaeean.barcodescanner:textAppearanceSmallPopupMenu}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorAlertDialogListItem com.safaeean.barcodescanner:textColorAlertDialogListItem}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_textColorSearchUrl com.safaeean.barcodescanner:textColorSearchUrl}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarNavigationButtonStyle com.safaeean.barcodescanner:toolbarNavigationButtonStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_toolbarStyle com.safaeean.barcodescanner:toolbarStyle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBar com.safaeean.barcodescanner:windowActionBar}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionBarOverlay com.safaeean.barcodescanner:windowActionBarOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowActionModeOverlay com.safaeean.barcodescanner:windowActionModeOverlay}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMajor com.safaeean.barcodescanner:windowFixedHeightMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedHeightMinor com.safaeean.barcodescanner:windowFixedHeightMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMajor com.safaeean.barcodescanner:windowFixedWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowFixedWidthMinor com.safaeean.barcodescanner:windowFixedWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMajor com.safaeean.barcodescanner:windowMinWidthMajor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowMinWidthMinor com.safaeean.barcodescanner:windowMinWidthMinor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Theme_windowNoTitle com.safaeean.barcodescanner:windowNoTitle}</code></td><td></td></tr>
            </table>
            @see #Theme_actionBarDivider
            @see #Theme_actionBarItemBackground
@@ -5191,37 +5191,37 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
             0x7f0100ce, 0x7f0100cf, 0x7f0100d0, 0x7f0100d1
         };
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarDivider}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarDivider}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarDivider
+          @attr name com.safaeean.barcodescanner:actionBarDivider
         */
         public static int Theme_actionBarDivider = 23;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarItemBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarItemBackground
+          @attr name com.safaeean.barcodescanner:actionBarItemBackground
         */
         public static int Theme_actionBarItemBackground = 24;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarPopupTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarPopupTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarPopupTheme
+          @attr name com.safaeean.barcodescanner:actionBarPopupTheme
         */
         public static int Theme_actionBarPopupTheme = 17;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarSize}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarSize}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5241,111 +5241,111 @@ containing a value of this type.
 <tr><th>Constant</th><th>Value</th><th>Description</th></tr>
 <tr><td><code>wrap_content</code></td><td>0</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:actionBarSize
+          @attr name com.safaeean.barcodescanner:actionBarSize
         */
         public static int Theme_actionBarSize = 22;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarSplitStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarSplitStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarSplitStyle
+          @attr name com.safaeean.barcodescanner:actionBarSplitStyle
         */
         public static int Theme_actionBarSplitStyle = 19;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarStyle
+          @attr name com.safaeean.barcodescanner:actionBarStyle
         */
         public static int Theme_actionBarStyle = 18;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarTabBarStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarTabBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarTabBarStyle
+          @attr name com.safaeean.barcodescanner:actionBarTabBarStyle
         */
         public static int Theme_actionBarTabBarStyle = 13;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarTabStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarTabStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarTabStyle
+          @attr name com.safaeean.barcodescanner:actionBarTabStyle
         */
         public static int Theme_actionBarTabStyle = 12;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarTabTextStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarTabTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarTabTextStyle
+          @attr name com.safaeean.barcodescanner:actionBarTabTextStyle
         */
         public static int Theme_actionBarTabTextStyle = 14;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarTheme
+          @attr name com.safaeean.barcodescanner:actionBarTheme
         */
         public static int Theme_actionBarTheme = 20;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionBarWidgetTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionBarWidgetTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionBarWidgetTheme
+          @attr name com.safaeean.barcodescanner:actionBarWidgetTheme
         */
         public static int Theme_actionBarWidgetTheme = 21;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionButtonStyle
+          @attr name com.safaeean.barcodescanner:actionButtonStyle
         */
         public static int Theme_actionButtonStyle = 49;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionDropDownStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionDropDownStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionDropDownStyle
+          @attr name com.safaeean.barcodescanner:actionDropDownStyle
         */
         public static int Theme_actionDropDownStyle = 45;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionMenuTextAppearance}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionMenuTextAppearance}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionMenuTextAppearance
+          @attr name com.safaeean.barcodescanner:actionMenuTextAppearance
         */
         public static int Theme_actionMenuTextAppearance = 25;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionMenuTextColor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionMenuTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5353,181 +5353,181 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.eguma.barcodescanner:actionMenuTextColor
+          @attr name com.safaeean.barcodescanner:actionMenuTextColor
         */
         public static int Theme_actionMenuTextColor = 26;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeBackground
+          @attr name com.safaeean.barcodescanner:actionModeBackground
         */
         public static int Theme_actionModeBackground = 29;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeCloseButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeCloseButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeCloseButtonStyle
+          @attr name com.safaeean.barcodescanner:actionModeCloseButtonStyle
         */
         public static int Theme_actionModeCloseButtonStyle = 28;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeCloseDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeCloseDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeCloseDrawable
+          @attr name com.safaeean.barcodescanner:actionModeCloseDrawable
         */
         public static int Theme_actionModeCloseDrawable = 31;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeCopyDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeCopyDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeCopyDrawable
+          @attr name com.safaeean.barcodescanner:actionModeCopyDrawable
         */
         public static int Theme_actionModeCopyDrawable = 33;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeCutDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeCutDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeCutDrawable
+          @attr name com.safaeean.barcodescanner:actionModeCutDrawable
         */
         public static int Theme_actionModeCutDrawable = 32;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeFindDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeFindDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeFindDrawable
+          @attr name com.safaeean.barcodescanner:actionModeFindDrawable
         */
         public static int Theme_actionModeFindDrawable = 37;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModePasteDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModePasteDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModePasteDrawable
+          @attr name com.safaeean.barcodescanner:actionModePasteDrawable
         */
         public static int Theme_actionModePasteDrawable = 34;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModePopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModePopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModePopupWindowStyle
+          @attr name com.safaeean.barcodescanner:actionModePopupWindowStyle
         */
         public static int Theme_actionModePopupWindowStyle = 39;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeSelectAllDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeSelectAllDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeSelectAllDrawable
+          @attr name com.safaeean.barcodescanner:actionModeSelectAllDrawable
         */
         public static int Theme_actionModeSelectAllDrawable = 35;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeShareDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeShareDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeShareDrawable
+          @attr name com.safaeean.barcodescanner:actionModeShareDrawable
         */
         public static int Theme_actionModeShareDrawable = 36;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeSplitBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeSplitBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeSplitBackground
+          @attr name com.safaeean.barcodescanner:actionModeSplitBackground
         */
         public static int Theme_actionModeSplitBackground = 30;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeStyle
+          @attr name com.safaeean.barcodescanner:actionModeStyle
         */
         public static int Theme_actionModeStyle = 27;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionModeWebSearchDrawable}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionModeWebSearchDrawable}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionModeWebSearchDrawable
+          @attr name com.safaeean.barcodescanner:actionModeWebSearchDrawable
         */
         public static int Theme_actionModeWebSearchDrawable = 38;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionOverflowButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionOverflowButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionOverflowButtonStyle
+          @attr name com.safaeean.barcodescanner:actionOverflowButtonStyle
         */
         public static int Theme_actionOverflowButtonStyle = 15;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#actionOverflowMenuStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#actionOverflowMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:actionOverflowMenuStyle
+          @attr name com.safaeean.barcodescanner:actionOverflowMenuStyle
         */
         public static int Theme_actionOverflowMenuStyle = 16;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#activityChooserViewStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#activityChooserViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:activityChooserViewStyle
+          @attr name com.safaeean.barcodescanner:activityChooserViewStyle
         */
         public static int Theme_activityChooserViewStyle = 57;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#alertDialogButtonGroupStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#alertDialogButtonGroupStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:alertDialogButtonGroupStyle
+          @attr name com.safaeean.barcodescanner:alertDialogButtonGroupStyle
         */
         public static int Theme_alertDialogButtonGroupStyle = 91;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#alertDialogCenterButtons}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#alertDialogCenterButtons}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5537,27 +5537,27 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:alertDialogCenterButtons
+          @attr name com.safaeean.barcodescanner:alertDialogCenterButtons
         */
         public static int Theme_alertDialogCenterButtons = 92;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#alertDialogStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#alertDialogStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:alertDialogStyle
+          @attr name com.safaeean.barcodescanner:alertDialogStyle
         */
         public static int Theme_alertDialogStyle = 90;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#alertDialogTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#alertDialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:alertDialogTheme
+          @attr name com.safaeean.barcodescanner:alertDialogTheme
         */
         public static int Theme_alertDialogTheme = 93;
         /**
@@ -5573,117 +5573,117 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int Theme_android_windowIsFloating = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#autoCompleteTextViewStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#autoCompleteTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:autoCompleteTextViewStyle
+          @attr name com.safaeean.barcodescanner:autoCompleteTextViewStyle
         */
         public static int Theme_autoCompleteTextViewStyle = 98;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#borderlessButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#borderlessButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:borderlessButtonStyle
+          @attr name com.safaeean.barcodescanner:borderlessButtonStyle
         */
         public static int Theme_borderlessButtonStyle = 54;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonBarButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonBarButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:buttonBarButtonStyle
+          @attr name com.safaeean.barcodescanner:buttonBarButtonStyle
         */
         public static int Theme_buttonBarButtonStyle = 51;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonBarNegativeButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonBarNegativeButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:buttonBarNegativeButtonStyle
+          @attr name com.safaeean.barcodescanner:buttonBarNegativeButtonStyle
         */
         public static int Theme_buttonBarNegativeButtonStyle = 96;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonBarNeutralButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonBarNeutralButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:buttonBarNeutralButtonStyle
+          @attr name com.safaeean.barcodescanner:buttonBarNeutralButtonStyle
         */
         public static int Theme_buttonBarNeutralButtonStyle = 97;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonBarPositiveButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonBarPositiveButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:buttonBarPositiveButtonStyle
+          @attr name com.safaeean.barcodescanner:buttonBarPositiveButtonStyle
         */
         public static int Theme_buttonBarPositiveButtonStyle = 95;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonBarStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:buttonBarStyle
+          @attr name com.safaeean.barcodescanner:buttonBarStyle
         */
         public static int Theme_buttonBarStyle = 50;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:buttonStyle
+          @attr name com.safaeean.barcodescanner:buttonStyle
         */
         public static int Theme_buttonStyle = 99;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#buttonStyleSmall}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#buttonStyleSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:buttonStyleSmall
+          @attr name com.safaeean.barcodescanner:buttonStyleSmall
         */
         public static int Theme_buttonStyleSmall = 100;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#checkboxStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#checkboxStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:checkboxStyle
+          @attr name com.safaeean.barcodescanner:checkboxStyle
         */
         public static int Theme_checkboxStyle = 101;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#checkedTextViewStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#checkedTextViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:checkedTextViewStyle
+          @attr name com.safaeean.barcodescanner:checkedTextViewStyle
         */
         public static int Theme_checkedTextViewStyle = 102;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#colorAccent}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#colorAccent}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5694,11 +5694,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:colorAccent
+          @attr name com.safaeean.barcodescanner:colorAccent
         */
         public static int Theme_colorAccent = 83;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#colorButtonNormal}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#colorButtonNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5709,11 +5709,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:colorButtonNormal
+          @attr name com.safaeean.barcodescanner:colorButtonNormal
         */
         public static int Theme_colorButtonNormal = 87;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#colorControlActivated}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#colorControlActivated}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5724,11 +5724,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:colorControlActivated
+          @attr name com.safaeean.barcodescanner:colorControlActivated
         */
         public static int Theme_colorControlActivated = 85;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#colorControlHighlight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#colorControlHighlight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5739,11 +5739,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:colorControlHighlight
+          @attr name com.safaeean.barcodescanner:colorControlHighlight
         */
         public static int Theme_colorControlHighlight = 86;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#colorControlNormal}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#colorControlNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5754,11 +5754,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:colorControlNormal
+          @attr name com.safaeean.barcodescanner:colorControlNormal
         */
         public static int Theme_colorControlNormal = 84;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#colorPrimary}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#colorPrimary}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5769,11 +5769,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:colorPrimary
+          @attr name com.safaeean.barcodescanner:colorPrimary
         */
         public static int Theme_colorPrimary = 81;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#colorPrimaryDark}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#colorPrimaryDark}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5784,11 +5784,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:colorPrimaryDark
+          @attr name com.safaeean.barcodescanner:colorPrimaryDark
         */
         public static int Theme_colorPrimaryDark = 82;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#colorSwitchThumbNormal}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#colorSwitchThumbNormal}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5799,21 +5799,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:colorSwitchThumbNormal
+          @attr name com.safaeean.barcodescanner:colorSwitchThumbNormal
         */
         public static int Theme_colorSwitchThumbNormal = 88;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#controlBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#controlBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:controlBackground
+          @attr name com.safaeean.barcodescanner:controlBackground
         */
         public static int Theme_controlBackground = 89;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#dialogPreferredPadding}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#dialogPreferredPadding}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5825,51 +5825,51 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:dialogPreferredPadding
+          @attr name com.safaeean.barcodescanner:dialogPreferredPadding
         */
         public static int Theme_dialogPreferredPadding = 43;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#dialogTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#dialogTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:dialogTheme
+          @attr name com.safaeean.barcodescanner:dialogTheme
         */
         public static int Theme_dialogTheme = 42;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#dividerHorizontal}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#dividerHorizontal}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:dividerHorizontal
+          @attr name com.safaeean.barcodescanner:dividerHorizontal
         */
         public static int Theme_dividerHorizontal = 56;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#dividerVertical}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#dividerVertical}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:dividerVertical
+          @attr name com.safaeean.barcodescanner:dividerVertical
         */
         public static int Theme_dividerVertical = 55;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#dropDownListViewStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#dropDownListViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:dropDownListViewStyle
+          @attr name com.safaeean.barcodescanner:dropDownListViewStyle
         */
         public static int Theme_dropDownListViewStyle = 73;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#dropdownListPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#dropdownListPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5881,21 +5881,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:dropdownListPreferredItemHeight
+          @attr name com.safaeean.barcodescanner:dropdownListPreferredItemHeight
         */
         public static int Theme_dropdownListPreferredItemHeight = 46;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#editTextBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#editTextBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:editTextBackground
+          @attr name com.safaeean.barcodescanner:editTextBackground
         */
         public static int Theme_editTextBackground = 63;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#editTextColor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#editTextColor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5903,61 +5903,61 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.eguma.barcodescanner:editTextColor
+          @attr name com.safaeean.barcodescanner:editTextColor
         */
         public static int Theme_editTextColor = 62;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#editTextStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#editTextStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:editTextStyle
+          @attr name com.safaeean.barcodescanner:editTextStyle
         */
         public static int Theme_editTextStyle = 103;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#homeAsUpIndicator}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#homeAsUpIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:homeAsUpIndicator
+          @attr name com.safaeean.barcodescanner:homeAsUpIndicator
         */
         public static int Theme_homeAsUpIndicator = 48;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listChoiceBackgroundIndicator}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listChoiceBackgroundIndicator}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:listChoiceBackgroundIndicator
+          @attr name com.safaeean.barcodescanner:listChoiceBackgroundIndicator
         */
         public static int Theme_listChoiceBackgroundIndicator = 80;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listDividerAlertDialog}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listDividerAlertDialog}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:listDividerAlertDialog
+          @attr name com.safaeean.barcodescanner:listDividerAlertDialog
         */
         public static int Theme_listDividerAlertDialog = 44;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listPopupWindowStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listPopupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:listPopupWindowStyle
+          @attr name com.safaeean.barcodescanner:listPopupWindowStyle
         */
         public static int Theme_listPopupWindowStyle = 74;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listPreferredItemHeight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listPreferredItemHeight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5969,11 +5969,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:listPreferredItemHeight
+          @attr name com.safaeean.barcodescanner:listPreferredItemHeight
         */
         public static int Theme_listPreferredItemHeight = 68;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listPreferredItemHeightLarge}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listPreferredItemHeightLarge}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -5985,11 +5985,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:listPreferredItemHeightLarge
+          @attr name com.safaeean.barcodescanner:listPreferredItemHeightLarge
         */
         public static int Theme_listPreferredItemHeightLarge = 70;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listPreferredItemHeightSmall}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listPreferredItemHeightSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6001,11 +6001,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:listPreferredItemHeightSmall
+          @attr name com.safaeean.barcodescanner:listPreferredItemHeightSmall
         */
         public static int Theme_listPreferredItemHeightSmall = 69;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listPreferredItemPaddingLeft}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listPreferredItemPaddingLeft}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6017,11 +6017,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:listPreferredItemPaddingLeft
+          @attr name com.safaeean.barcodescanner:listPreferredItemPaddingLeft
         */
         public static int Theme_listPreferredItemPaddingLeft = 71;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#listPreferredItemPaddingRight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#listPreferredItemPaddingRight}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6033,31 +6033,31 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:listPreferredItemPaddingRight
+          @attr name com.safaeean.barcodescanner:listPreferredItemPaddingRight
         */
         public static int Theme_listPreferredItemPaddingRight = 72;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#panelBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#panelBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:panelBackground
+          @attr name com.safaeean.barcodescanner:panelBackground
         */
         public static int Theme_panelBackground = 77;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#panelMenuListTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#panelMenuListTheme}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:panelMenuListTheme
+          @attr name com.safaeean.barcodescanner:panelMenuListTheme
         */
         public static int Theme_panelMenuListTheme = 79;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#panelMenuListWidth}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#panelMenuListWidth}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6069,171 +6069,171 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:panelMenuListWidth
+          @attr name com.safaeean.barcodescanner:panelMenuListWidth
         */
         public static int Theme_panelMenuListWidth = 78;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#popupMenuStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#popupMenuStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:popupMenuStyle
+          @attr name com.safaeean.barcodescanner:popupMenuStyle
         */
         public static int Theme_popupMenuStyle = 60;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#popupWindowStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#popupWindowStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:popupWindowStyle
+          @attr name com.safaeean.barcodescanner:popupWindowStyle
         */
         public static int Theme_popupWindowStyle = 61;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#radioButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#radioButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:radioButtonStyle
+          @attr name com.safaeean.barcodescanner:radioButtonStyle
         */
         public static int Theme_radioButtonStyle = 104;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#ratingBarStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#ratingBarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:ratingBarStyle
+          @attr name com.safaeean.barcodescanner:ratingBarStyle
         */
         public static int Theme_ratingBarStyle = 105;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#searchViewStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#searchViewStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:searchViewStyle
+          @attr name com.safaeean.barcodescanner:searchViewStyle
         */
         public static int Theme_searchViewStyle = 67;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#selectableItemBackground}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#selectableItemBackground}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:selectableItemBackground
+          @attr name com.safaeean.barcodescanner:selectableItemBackground
         */
         public static int Theme_selectableItemBackground = 52;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#selectableItemBackgroundBorderless}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#selectableItemBackgroundBorderless}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:selectableItemBackgroundBorderless
+          @attr name com.safaeean.barcodescanner:selectableItemBackgroundBorderless
         */
         public static int Theme_selectableItemBackgroundBorderless = 53;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#spinnerDropDownItemStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#spinnerDropDownItemStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:spinnerDropDownItemStyle
+          @attr name com.safaeean.barcodescanner:spinnerDropDownItemStyle
         */
         public static int Theme_spinnerDropDownItemStyle = 47;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#spinnerStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#spinnerStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:spinnerStyle
+          @attr name com.safaeean.barcodescanner:spinnerStyle
         */
         public static int Theme_spinnerStyle = 106;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#switchStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#switchStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:switchStyle
+          @attr name com.safaeean.barcodescanner:switchStyle
         */
         public static int Theme_switchStyle = 107;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textAppearanceLargePopupMenu}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textAppearanceLargePopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:textAppearanceLargePopupMenu
+          @attr name com.safaeean.barcodescanner:textAppearanceLargePopupMenu
         */
         public static int Theme_textAppearanceLargePopupMenu = 40;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textAppearanceListItem}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textAppearanceListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:textAppearanceListItem
+          @attr name com.safaeean.barcodescanner:textAppearanceListItem
         */
         public static int Theme_textAppearanceListItem = 75;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textAppearanceListItemSmall}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textAppearanceListItemSmall}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:textAppearanceListItemSmall
+          @attr name com.safaeean.barcodescanner:textAppearanceListItemSmall
         */
         public static int Theme_textAppearanceListItemSmall = 76;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textAppearanceSearchResultSubtitle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textAppearanceSearchResultSubtitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:textAppearanceSearchResultSubtitle
+          @attr name com.safaeean.barcodescanner:textAppearanceSearchResultSubtitle
         */
         public static int Theme_textAppearanceSearchResultSubtitle = 65;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textAppearanceSearchResultTitle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textAppearanceSearchResultTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:textAppearanceSearchResultTitle
+          @attr name com.safaeean.barcodescanner:textAppearanceSearchResultTitle
         */
         public static int Theme_textAppearanceSearchResultTitle = 64;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textAppearanceSmallPopupMenu}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textAppearanceSmallPopupMenu}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:textAppearanceSmallPopupMenu
+          @attr name com.safaeean.barcodescanner:textAppearanceSmallPopupMenu
         */
         public static int Theme_textAppearanceSmallPopupMenu = 41;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textColorAlertDialogListItem}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textColorAlertDialogListItem}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6241,11 +6241,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.eguma.barcodescanner:textColorAlertDialogListItem
+          @attr name com.safaeean.barcodescanner:textColorAlertDialogListItem
         */
         public static int Theme_textColorAlertDialogListItem = 94;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#textColorSearchUrl}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#textColorSearchUrl}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6253,31 +6253,31 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
 <p>May be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-          @attr name com.eguma.barcodescanner:textColorSearchUrl
+          @attr name com.safaeean.barcodescanner:textColorSearchUrl
         */
         public static int Theme_textColorSearchUrl = 66;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#toolbarNavigationButtonStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#toolbarNavigationButtonStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:toolbarNavigationButtonStyle
+          @attr name com.safaeean.barcodescanner:toolbarNavigationButtonStyle
         */
         public static int Theme_toolbarNavigationButtonStyle = 59;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#toolbarStyle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#toolbarStyle}
           attribute's value can be found in the {@link #Theme} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:toolbarStyle
+          @attr name com.safaeean.barcodescanner:toolbarStyle
         */
         public static int Theme_toolbarStyle = 58;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowActionBar}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowActionBar}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6287,11 +6287,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowActionBar
+          @attr name com.safaeean.barcodescanner:windowActionBar
         */
         public static int Theme_windowActionBar = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowActionBarOverlay}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowActionBarOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6301,11 +6301,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowActionBarOverlay
+          @attr name com.safaeean.barcodescanner:windowActionBarOverlay
         */
         public static int Theme_windowActionBarOverlay = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowActionModeOverlay}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowActionModeOverlay}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6315,11 +6315,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowActionModeOverlay
+          @attr name com.safaeean.barcodescanner:windowActionModeOverlay
         */
         public static int Theme_windowActionModeOverlay = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowFixedHeightMajor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowFixedHeightMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6334,11 +6334,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowFixedHeightMajor
+          @attr name com.safaeean.barcodescanner:windowFixedHeightMajor
         */
         public static int Theme_windowFixedHeightMajor = 9;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowFixedHeightMinor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowFixedHeightMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6353,11 +6353,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowFixedHeightMinor
+          @attr name com.safaeean.barcodescanner:windowFixedHeightMinor
         */
         public static int Theme_windowFixedHeightMinor = 7;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowFixedWidthMajor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowFixedWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6372,11 +6372,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowFixedWidthMajor
+          @attr name com.safaeean.barcodescanner:windowFixedWidthMajor
         */
         public static int Theme_windowFixedWidthMajor = 6;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowFixedWidthMinor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowFixedWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6391,11 +6391,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowFixedWidthMinor
+          @attr name com.safaeean.barcodescanner:windowFixedWidthMinor
         */
         public static int Theme_windowFixedWidthMinor = 8;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowMinWidthMajor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowMinWidthMajor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6410,11 +6410,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowMinWidthMajor
+          @attr name com.safaeean.barcodescanner:windowMinWidthMajor
         */
         public static int Theme_windowMinWidthMajor = 10;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowMinWidthMinor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowMinWidthMinor}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6429,11 +6429,11 @@ some parent container.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowMinWidthMinor
+          @attr name com.safaeean.barcodescanner:windowMinWidthMinor
         */
         public static int Theme_windowMinWidthMinor = 11;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#windowNoTitle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#windowNoTitle}
           attribute's value can be found in the {@link #Theme} array.
 
 
@@ -6443,7 +6443,7 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:windowNoTitle
+          @attr name com.safaeean.barcodescanner:windowNoTitle
         */
         public static int Theme_windowNoTitle = 3;
         /** Attributes that can be used with a Toolbar.
@@ -6454,29 +6454,29 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #Toolbar_android_gravity android:gravity}</code></td><td></td></tr>
            <tr><td><code>{@link #Toolbar_android_minHeight android:minHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseContentDescription com.eguma.barcodescanner:collapseContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_collapseIcon com.eguma.barcodescanner:collapseIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetEnd com.eguma.barcodescanner:contentInsetEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetLeft com.eguma.barcodescanner:contentInsetLeft}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetRight com.eguma.barcodescanner:contentInsetRight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_contentInsetStart com.eguma.barcodescanner:contentInsetStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logo com.eguma.barcodescanner:logo}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_logoDescription com.eguma.barcodescanner:logoDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_maxButtonHeight com.eguma.barcodescanner:maxButtonHeight}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationContentDescription com.eguma.barcodescanner:navigationContentDescription}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_navigationIcon com.eguma.barcodescanner:navigationIcon}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_popupTheme com.eguma.barcodescanner:popupTheme}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitle com.eguma.barcodescanner:subtitle}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.eguma.barcodescanner:subtitleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_subtitleTextColor com.eguma.barcodescanner:subtitleTextColor}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_title com.eguma.barcodescanner:title}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginBottom com.eguma.barcodescanner:titleMarginBottom}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginEnd com.eguma.barcodescanner:titleMarginEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginStart com.eguma.barcodescanner:titleMarginStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMarginTop com.eguma.barcodescanner:titleMarginTop}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleMargins com.eguma.barcodescanner:titleMargins}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextAppearance com.eguma.barcodescanner:titleTextAppearance}</code></td><td></td></tr>
-           <tr><td><code>{@link #Toolbar_titleTextColor com.eguma.barcodescanner:titleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseContentDescription com.safaeean.barcodescanner:collapseContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_collapseIcon com.safaeean.barcodescanner:collapseIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetEnd com.safaeean.barcodescanner:contentInsetEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetLeft com.safaeean.barcodescanner:contentInsetLeft}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetRight com.safaeean.barcodescanner:contentInsetRight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_contentInsetStart com.safaeean.barcodescanner:contentInsetStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logo com.safaeean.barcodescanner:logo}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_logoDescription com.safaeean.barcodescanner:logoDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_maxButtonHeight com.safaeean.barcodescanner:maxButtonHeight}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationContentDescription com.safaeean.barcodescanner:navigationContentDescription}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_navigationIcon com.safaeean.barcodescanner:navigationIcon}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_popupTheme com.safaeean.barcodescanner:popupTheme}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitle com.safaeean.barcodescanner:subtitle}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextAppearance com.safaeean.barcodescanner:subtitleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_subtitleTextColor com.safaeean.barcodescanner:subtitleTextColor}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_title com.safaeean.barcodescanner:title}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginBottom com.safaeean.barcodescanner:titleMarginBottom}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginEnd com.safaeean.barcodescanner:titleMarginEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginStart com.safaeean.barcodescanner:titleMarginStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMarginTop com.safaeean.barcodescanner:titleMarginTop}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleMargins com.safaeean.barcodescanner:titleMargins}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextAppearance com.safaeean.barcodescanner:titleTextAppearance}</code></td><td></td></tr>
+           <tr><td><code>{@link #Toolbar_titleTextColor com.safaeean.barcodescanner:titleTextColor}</code></td><td></td></tr>
            </table>
            @see #Toolbar_android_gravity
            @see #Toolbar_android_minHeight
@@ -6526,7 +6526,7 @@ containing a value of this type.
         */
         public static int Toolbar_android_minHeight = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#collapseContentDescription}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#collapseContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6536,21 +6536,21 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:collapseContentDescription
+          @attr name com.safaeean.barcodescanner:collapseContentDescription
         */
         public static int Toolbar_collapseContentDescription = 19;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#collapseIcon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#collapseIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:collapseIcon
+          @attr name com.safaeean.barcodescanner:collapseIcon
         */
         public static int Toolbar_collapseIcon = 18;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#contentInsetEnd}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#contentInsetEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6562,11 +6562,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:contentInsetEnd
+          @attr name com.safaeean.barcodescanner:contentInsetEnd
         */
         public static int Toolbar_contentInsetEnd = 6;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#contentInsetLeft}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#contentInsetLeft}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6578,11 +6578,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:contentInsetLeft
+          @attr name com.safaeean.barcodescanner:contentInsetLeft
         */
         public static int Toolbar_contentInsetLeft = 7;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#contentInsetRight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#contentInsetRight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6594,11 +6594,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:contentInsetRight
+          @attr name com.safaeean.barcodescanner:contentInsetRight
         */
         public static int Toolbar_contentInsetRight = 8;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#contentInsetStart}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#contentInsetStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6610,21 +6610,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:contentInsetStart
+          @attr name com.safaeean.barcodescanner:contentInsetStart
         */
         public static int Toolbar_contentInsetStart = 5;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#logo}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#logo}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:logo
+          @attr name com.safaeean.barcodescanner:logo
         */
         public static int Toolbar_logo = 4;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#logoDescription}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#logoDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6634,11 +6634,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:logoDescription
+          @attr name com.safaeean.barcodescanner:logoDescription
         */
         public static int Toolbar_logoDescription = 22;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#maxButtonHeight}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#maxButtonHeight}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6650,11 +6650,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:maxButtonHeight
+          @attr name com.safaeean.barcodescanner:maxButtonHeight
         */
         public static int Toolbar_maxButtonHeight = 17;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#navigationContentDescription}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#navigationContentDescription}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6664,31 +6664,31 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:navigationContentDescription
+          @attr name com.safaeean.barcodescanner:navigationContentDescription
         */
         public static int Toolbar_navigationContentDescription = 21;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#navigationIcon}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#navigationIcon}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:navigationIcon
+          @attr name com.safaeean.barcodescanner:navigationIcon
         */
         public static int Toolbar_navigationIcon = 20;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#popupTheme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#popupTheme}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:popupTheme
+          @attr name com.safaeean.barcodescanner:popupTheme
         */
         public static int Toolbar_popupTheme = 9;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#subtitle}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#subtitle}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6698,21 +6698,21 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:subtitle
+          @attr name com.safaeean.barcodescanner:subtitle
         */
         public static int Toolbar_subtitle = 3;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#subtitleTextAppearance}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#subtitleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:subtitleTextAppearance
+          @attr name com.safaeean.barcodescanner:subtitleTextAppearance
         */
         public static int Toolbar_subtitleTextAppearance = 11;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#subtitleTextColor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#subtitleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6723,11 +6723,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:subtitleTextColor
+          @attr name com.safaeean.barcodescanner:subtitleTextColor
         */
         public static int Toolbar_subtitleTextColor = 24;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#title}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#title}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6737,11 +6737,11 @@ containing a value of this type.
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:title
+          @attr name com.safaeean.barcodescanner:title
         */
         public static int Toolbar_title = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleMarginBottom}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleMarginBottom}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6753,11 +6753,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:titleMarginBottom
+          @attr name com.safaeean.barcodescanner:titleMarginBottom
         */
         public static int Toolbar_titleMarginBottom = 16;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleMarginEnd}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleMarginEnd}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6769,11 +6769,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:titleMarginEnd
+          @attr name com.safaeean.barcodescanner:titleMarginEnd
         */
         public static int Toolbar_titleMarginEnd = 14;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleMarginStart}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleMarginStart}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6785,11 +6785,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:titleMarginStart
+          @attr name com.safaeean.barcodescanner:titleMarginStart
         */
         public static int Toolbar_titleMarginStart = 13;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleMarginTop}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleMarginTop}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6801,11 +6801,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:titleMarginTop
+          @attr name com.safaeean.barcodescanner:titleMarginTop
         */
         public static int Toolbar_titleMarginTop = 15;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleMargins}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleMargins}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6817,21 +6817,21 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:titleMargins
+          @attr name com.safaeean.barcodescanner:titleMargins
         */
         public static int Toolbar_titleMargins = 12;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleTextAppearance}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleTextAppearance}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:titleTextAppearance
+          @attr name com.safaeean.barcodescanner:titleTextAppearance
         */
         public static int Toolbar_titleTextAppearance = 10;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#titleTextColor}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#titleTextColor}
           attribute's value can be found in the {@link #Toolbar} array.
 
 
@@ -6842,7 +6842,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:titleTextColor
+          @attr name com.safaeean.barcodescanner:titleTextColor
         */
         public static int Toolbar_titleTextColor = 23;
         /** Attributes that can be used with a View.
@@ -6853,9 +6853,9 @@ containing a value of this type.
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #View_android_focusable android:focusable}</code></td><td></td></tr>
            <tr><td><code>{@link #View_android_theme android:theme}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingEnd com.eguma.barcodescanner:paddingEnd}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_paddingStart com.eguma.barcodescanner:paddingStart}</code></td><td></td></tr>
-           <tr><td><code>{@link #View_theme com.eguma.barcodescanner:theme}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingEnd com.safaeean.barcodescanner:paddingEnd}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_paddingStart com.safaeean.barcodescanner:paddingStart}</code></td><td></td></tr>
+           <tr><td><code>{@link #View_theme com.safaeean.barcodescanner:theme}</code></td><td></td></tr>
            </table>
            @see #View_android_focusable
            @see #View_android_theme
@@ -6880,7 +6880,7 @@ containing a value of this type.
         */
         public static int View_android_theme = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#paddingEnd}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#paddingEnd}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6892,11 +6892,11 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:paddingEnd
+          @attr name com.safaeean.barcodescanner:paddingEnd
         */
         public static int View_paddingEnd = 3;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#paddingStart}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#paddingStart}
           attribute's value can be found in the {@link #View} array.
 
 
@@ -6908,17 +6908,17 @@ in (inches), mm (millimeters).
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:paddingStart
+          @attr name com.safaeean.barcodescanner:paddingStart
         */
         public static int View_paddingStart = 2;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#theme}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#theme}
           attribute's value can be found in the {@link #View} array.
 
 
           <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
-          @attr name com.eguma.barcodescanner:theme
+          @attr name com.safaeean.barcodescanner:theme
         */
         public static int View_theme = 4;
         /** Attributes that can be used with a ViewBackgroundHelper.
@@ -6928,8 +6928,8 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
            <colgroup align="left" />
            <tr><th>Attribute</th><th>Description</th></tr>
            <tr><td><code>{@link #ViewBackgroundHelper_android_background android:background}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.eguma.barcodescanner:backgroundTint}</code></td><td></td></tr>
-           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.eguma.barcodescanner:backgroundTintMode}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTint com.safaeean.barcodescanner:backgroundTint}</code></td><td></td></tr>
+           <tr><td><code>{@link #ViewBackgroundHelper_backgroundTintMode com.safaeean.barcodescanner:backgroundTintMode}</code></td><td></td></tr>
            </table>
            @see #ViewBackgroundHelper_android_background
            @see #ViewBackgroundHelper_backgroundTint
@@ -6945,7 +6945,7 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
         */
         public static int ViewBackgroundHelper_android_background = 0;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#backgroundTint}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#backgroundTint}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6956,11 +6956,11 @@ or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>na
 theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
-          @attr name com.eguma.barcodescanner:backgroundTint
+          @attr name com.safaeean.barcodescanner:backgroundTint
         */
         public static int ViewBackgroundHelper_backgroundTint = 1;
         /**
-          <p>This symbol is the offset where the {@link com.eguma.barcodescanner.R.attr#backgroundTintMode}
+          <p>This symbol is the offset where the {@link com.safaeean.barcodescanner.R.attr#backgroundTintMode}
           attribute's value can be found in the {@link #ViewBackgroundHelper} array.
 
 
@@ -6976,7 +6976,7 @@ containing a value of this type.
 <tr><td><code>multiply</code></td><td>14</td><td></td></tr>
 <tr><td><code>screen</code></td><td>15</td><td></td></tr>
 </table>
-          @attr name com.eguma.barcodescanner:backgroundTintMode
+          @attr name com.safaeean.barcodescanner:backgroundTintMode
         */
         public static int ViewBackgroundHelper_backgroundTintMode = 2;
         /** Attributes that can be used with a ViewStubCompat.
