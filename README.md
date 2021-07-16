@@ -68,9 +68,9 @@ import React, {
   AppRegistry,
   Component,
 } from 'react-native';
-import scan-barcode from 'react-native-scan-barcode';
+import BarcodeScanner from 'react-native-scan-barcode';
 
-class scan-barcodeApp extends Component {
+class ScanBarcodeApp extends Component {
   constructor(props) {
     super(props);
 
@@ -87,7 +87,7 @@ class scan-barcodeApp extends Component {
 
   render() {
     return (
-      <scan-barcode
+      <BarcodeScanner
         onBarCodeRead={this.barcodeReceived}
         style={{ flex: 1 }}
         torchMode={this.state.torchMode}
@@ -97,7 +97,7 @@ class scan-barcodeApp extends Component {
   }
 }
 
-AppRegistry.registerComponent('scan-barcodeApp', () => scan-barcodeApp);
+AppRegistry.registerComponent('ScanBarcodeApp', () => ScanBarcodeApp);
 ```
 
 ## Example
