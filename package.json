@@ -13,10 +13,9 @@
   "license": "MIT",
   "main": "scan-barcode.js",
   "name": "react-native-scan-barcode",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/safaeean/react-native-scan-barcode.git"
+   "type": "git",
+    "url": "https://github.com/safaeean/react-native-scan-barcode.git"
   },
-  "version": "3.1.6"
+  "version": "3.1.7"
 }
