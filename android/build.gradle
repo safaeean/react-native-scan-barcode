@@ -1,5 +1,12 @@
 apply plugin: 'com.android.library'
 
+android {
+
+    defaultConfig {
+        minSdkVersion 16
+    }
+}
+
 dependencies {
     implementation 'com.google.zxing:core:3.2.1'
     implementation "com.facebook.react:react-native:+"  // From node_modules
