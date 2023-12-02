@@ -1,18 +1,19 @@
 apply plugin: 'com.android.library'
 
+def getExtOrDefault(name, defaultValue) {
+    return rootProject.ext.has(name) ? rootProject.ext.get(name) : defaultValue
+}
+
 android {
-    compileSdkVersion 23
-    buildToolsVersion "23.0.1"
+    compileSdkVersion getExtOrDefault('compileSdkVersion', 23)
+    buildToolsVersion getExtOrDefault('buildToolsVersion', "23.0.1")
 
     defaultConfig {
-        minSdkVersion 16
-        targetSdkVersion 23
-        versionCode 1
-        versionName "1.0"
+        minSdkVersion getExtOrDefault('minSdkVersion', 16)
     }
 }
 
 dependencies {
-    compile 'com.google.zxing:core:3.2.1'
-    compile "com.facebook.react:react-native:+"  // From node_modules
+    implementation 'com.google.zxing:core:3.2.1'
+    implementation "com.facebook.react:react-native:+"  // From node_modules
 }
